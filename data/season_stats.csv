@@ -1,0 +1,754 @@
+1,DeVonta Smith,1856,117,PHI,1,10,2021,Alabama,2020,Alabama,13,117,1856,15.9,23,142.8,WR,SR,devonta-smith-1
+2,Trent Taylor,1803,136,SFO,5,177,2017,Louisiana Tech,2016,Louisiana Tech,14,136,1803,13.3,12,128.8,WR,SR,trent-taylor-2
+3,Ja'Marr Chase,1780,84,CIN,1,5,2021,LSU,2019,LSU,14,84,1780,21.2,20,127.1,WR,SO,jamarr-chase-1
+4,Rashard Higgins,1750,96,CLE,5,172,2016,Colorado State,2014,Colorado State,12,96,1750,18.2,17,145.8,WR,SO,rashard-higgins-1
+5,Zay Jones,1746,158,BUF,2,37,2017,East Carolina,2016,East Carolina,12,158,1746,11.1,8,145.5,WR,SR,isaiah-jones-2
+6,Brandin Cooks,1730,128,NOR,1,20,2014,Oregon State,2013,Oregon State,13,128,1730,13.5,16,133.1,WR,JR,brandin-cooks-1
+7,Taywan Taylor,1730,98,OTI,3,72,2017,Western Kentucky,2016,Western Kentucky,14,98,1730,17.7,17,123.6,WR,SR,taywan-taylor-1
+8,Amari Cooper,1727,124,RAI,1,4,2015,Alabama,2014,Alabama,14,124,1727,13.9,16,123.4,WR,JR,amari-cooper-1
+9,Davante Adams,1719,131,GNB,2,53,2014,Fresno State,2013,Fresno State,13,131,1719,13.1,24,132.2,WR,SO,davante-adams-1
+10,Andy Isabella,1698,102,CRD,2,62,2019,Massachusetts,2018,Massachusetts,12,102,1698,16.6,13,141.5,WR,SR,andy-isabella-1
+11,Rome Odunze,1640,92,CHI,1,9,2024,Washington,2023,Washington,15,92,1640,17.8,13,109.3,WR,JR,rome-odunze-1
+12,Richie James,1625,105,SFO,7,240,2018,Middle Tennessee State,2016,Middle Tennessee State,13,105,1625,15.5,12,125.0,WR,SO,richie-james-1
+13,Jaxon Smith-Njigba,1606,95,SEA,1,20,2023,Ohio State,2021,Ohio State,13,95,1606,16.9,9,123.5,WR,SO,jaxon-smith-njigba-1
+14,Jordan Addison,1593,100,MIN,1,23,2023,USC,2021,Pitt,14,100,1593,15.9,17,113.8,WR,SO,jordan-addison-1
+15,Jameson Williams,1572,79,DET,1,12,2022,Alabama,2021,Alabama,15,79,1572,19.9,15,104.8,WR,JR,jameson-williams-1
+16,Malik Nabers,1569,89,NYG,1,6,2024,LSU,2023,LSU,13,89,1569,17.6,14,120.7,WR,JR,malik-nabers-1
+17,James Washington,1549,74,PIT,2,60,2018,Oklahoma State,2017,Oklahoma State,13,74,1549,20.9,13,119.2,WR,SR,james-washington-5
+18,Justin Jefferson,1540,111,MIN,1,22,2020,LSU,2019,LSU,15,111,1540,13.9,18,102.7,WR,JR,justin-jefferson-1
+19,Carlos Henderson,1535,82,DEN,3,82,2017,Louisiana Tech,2016,Louisiana Tech,13,82,1535,18.7,19,118.1,WR,JR,carlos-henderson-1
+20,Dede Westbrook,1524,80,JAX,4,110,2017,Oklahoma,2016,Oklahoma,13,80,1524,19.1,17,117.2,WR,SR,dede-westbrook-1
+21,Tyler Lockett,1515,106,SEA,3,69,2015,Kansas State,2014,Kansas State,13,106,1515,14.3,11,116.5,WR,SR,tyler-lockett-1
+22,Corey Davis,1500,97,OTI,1,5,2017,Western Michigan,2016,Western Michigan,14,97,1500,15.5,19,107.1,WR,SR,corey-davis-3
+23,Justin Hardy,1494,121,ATL,4,107,2015,East Carolina,2014,East Carolina,13,121,1494,12.3,10,114.9,WR,SR,justin-hardy-1
+24,Tylan Wallace,1491,86,RAV,4,131,2021,Oklahoma State,2018,Oklahoma State,13,86,1491,17.3,12,114.7,WR,SO,tylan-wallace-1
+25,Vince Mayle,1483,106,CLE,4,123,2015,Washington State,2014,Washington State,12,106,1483,14.0,9,123.6,WR,SR,vince-mayle-1
+26,Jordan Matthews,1477,112,PHI,2,42,2014,Vanderbilt,2013,Vanderbilt,13,112,1477,13.2,7,113.6,WR,SR,jordan-matthews-1
+27,Jalen Tolbert,1474,82,DAL,3,88,2022,South Alabama,2021,South Alabama,12,82,1474,18.0,8,122.8,WR,JR,jalen-tolbert-1
+28,Taywan Taylor,1467,86,OTI,3,72,2017,Western Kentucky,2015,Western Kentucky,14,86,1467,17.1,17,104.8,WR,JR,taywan-taylor-1
+29,Sammy Watkins,1464,101,BUF,1,4,2014,Clemson,2013,Clemson,13,101,1464,14.5,12,112.6,WR,JR,sammy-watkins-1
+30,Anthony Miller,1462,96,CHI,2,51,2018,Memphis,2017,Memphis,13,96,1462,15.2,18,112.5,WR,SR,anthony-miller-6
+31,JuJu Smith-Schuster,1454,89,PIT,2,62,2017,USC,2015,USC,14,89,1454,16.3,10,103.9,WR,SO,juju-smith-1
+32,Kevin White,1447,109,CHI,1,7,2015,West Virginia,2014,West Virginia,13,109,1447,13.3,10,111.3,WR,SR,kevin-white-6
+33,Corey Davis,1436,90,OTI,1,5,2017,Western Michigan,2015,Western Michigan,13,90,1436,16.0,12,110.5,WR,JR,corey-davis-3
+34,Anthony Miller,1434,95,CHI,2,51,2018,Memphis,2016,Memphis,13,95,1434,15.1,14,110.3,WR,JR,anthony-miller-6
+35,Allen Robinson,1432,97,JAX,2,61,2014,Penn State,2013,Penn State,12,97,1432,14.8,6,119.3,WR,JR,allen-robinson-1
+36,Keke Coutee,1429,93,HTX,4,103,2018,Texas Tech,2017,Texas Tech,13,93,1429,15.4,10,109.9,WR,JR,keke-coutee-1
+37,Malik Washington,1426,110,MIA,6,184,2024,Virginia,2023,Virginia,12,110,1426,13.0,9,118.8,WR,SR,malik-washington-1
+38,Michael Gallup,1413,100,DAL,3,81,2018,Colorado State,2017,Colorado State,13,100,1413,14.1,7,108.7,WR,SR,michael-gallup-1
+39,Corey Davis,1408,78,OTI,1,5,2017,Western Michigan,2014,Western Michigan,12,78,1408,18.1,15,117.3,WR,SO,corey-davis-3
+40,Nathaniel Dell,1398,109,HTX,3,69,2023,Houston,2022,Houston,13,109,1398,12.8,17,107.5,WR,JR,nathaniel-dell-1
+41,Antonio Gandy-Golden,1396,79,WAS,4,142,2020,Liberty,2019,Liberty,13,79,1396,17.7,10,107.4,WR,SR,antonio-gandy-golden-1
+42,Mike Evans,1394,69,TAM,1,7,2014,Texas A&M,2013,Texas A&M,13,69,1394,20.2,12,107.2,WR,SO,mike-evans-4
+43,Michael Thomas,1391,71,RAM,6,206,2016,Southern Mississippi,2015,Southern Mississippi,13,71,1391,19.6,14,107.0,WR,SR,michael-thomas-6
+44,Devin Duvernay,1386,106,RAV,3,92,2020,Texas,2019,Texas,13,106,1386,13.1,9,106.6,WR,SR,devin-duvernay-1
+45,Troy Franklin,1383,81,DEN,4,102,2024,Oregon,2023,Oregon,13,81,1383,17.1,14,106.4,WR,JR,troy-franklin-2
+46,James Washington,1380,71,PIT,2,60,2018,Oklahoma State,2016,Oklahoma State,13,71,1380,19.4,10,106.2,WR,JR,james-washington-5
+47,Daniel Braverman,1377,109,CHI,7,230,2016,Western Michigan,2015,Western Michigan,13,109,1377,12.6,13,105.9,WR,JR,daniel-braverman-1
+48,Jeremy Gallon,1373,89,NWE,7,244,2014,Michigan,2013,Michigan,13,89,1373,15.4,9,105.6,WR,SR,jeremy-gallon-1
+49,Rashad Greene,1365,99,JAX,5,139,2015,Florida State,2014,Florida State,14,99,1365,13.8,7,97.5,WR,SR,rashad-greene-1
+50,Corey Coleman,1363,74,CLE,1,15,2016,Baylor,2015,Baylor,12,74,1363,18.4,20,113.6,WR,JR,corey-coleman-1
+51,Charlie Jones,1361,110,CIN,4,131,2023,Purdue,2022,Purdue,13,110,1361,12.4,12,104.7,WR,SR,charlie-jones-7
+52,Mike Williams,1361,98,SDG,1,7,2017,Clemson,2016,Clemson,15,98,1361,13.9,11,90.7,WR,JR,mike-williams-17
+53,Jamison Crowder,1360,108,WAS,4,105,2015,Duke,2013,Duke,14,108,1360,12.6,8,97.1,WR,JR,jamison-crowder-1
+54,Rashee Rice,1355,96,KAN,2,55,2023,SMU,2022,SMU,12,96,1355,14.1,10,112.9,WR,SR,rashee-rice-1
+55,Jacob Cowing,1354,69,SFO,4,135,2024,Arizona,2021,UTEP,13,69,1354,19.6,7,104.2,WR,SO,jacob-cowing-1
+56,John Ursua,1343,89,SEA,7,236,2019,Hawaii,2018,Hawaii,13,89,1343,15.1,16,103.3,WR,JR,john-ursua-1
+57,Paul Richardson,1343,83,SEA,2,45,2014,Colorado,2013,Colorado,12,83,1343,16.2,10,111.9,WR,JR,paul-richardson-1
+58,KeeSean Johnson,1340,95,CRD,6,174,2019,Fresno State,2018,Fresno State,14,95,1340,14.1,8,95.7,WR,SR,keesean-johnson-1
+59,Josh Downs,1335,101,CLT,3,79,2023,North Carolina,2021,North Carolina,13,101,1335,13.2,8,102.7,WR,SO,josh-downs-2
+60,Wan'Dale Robinson,1334,104,NYG,2,43,2022,Kentucky,2021,Kentucky,13,104,1334,12.8,7,102.6,WR,JR,wandale-robinson-1
+61,Nathaniel Dell,1329,90,HTX,3,69,2023,Houston,2021,Houston,14,90,1329,14.8,12,94.9,WR,SO,nathaniel-dell-1
+62,CeeDee Lamb,1327,62,DAL,1,17,2020,Oklahoma,2019,Oklahoma,13,62,1327,21.4,14,102.1,WR,JR,ceedee-lamb-1
+63,Josh Doctson,1327,79,WAS,1,22,2016,Texas Christian,2015,Texas Christian,11,79,1327,16.8,14,120.6,WR,SR,josh-doctson-1
+64,A.J. Brown,1320,85,OTI,2,51,2019,Ole Miss,2018,Ole Miss,12,85,1320,15.5,6,110.0,WR,JR,aj-brown-3
+65,Tajae Sharpe,1319,111,OTI,5,140,2016,Massachusetts,2015,Massachusetts,12,111,1319,11.9,5,109.9,WR,SR,tajae-sharpe-1
+66,Hakeem Butler,1318,60,CRD,4,103,2019,Iowa State,2018,Iowa State,13,60,1318,22.0,9,101.4,WR,JR,hakeem-butler-1
+67,Marquise Brown,1318,75,RAV,1,25,2019,Oklahoma,2018,Oklahoma,14,75,1318,17.6,10,94.1,WR,JR,marquise-brown-1
+68,Jerry Jeudy,1315,68,DEN,1,15,2020,Alabama,2018,Alabama,15,68,1315,19.3,14,87.7,WR,SO,jerry-jeudy-1
+69,Nelson Agholor,1313,104,PHI,1,20,2015,USC,2014,USC,13,104,1313,12.6,12,101.0,WR,JR,nelson-agholor-1
+70,Malachi Corley,1295,101,NYJ,3,65,2024,Western Kentucky,2022,Western Kentucky,14,101,1295,12.8,11,92.5,WR,SO,malachi-corley-1
+71,A.T. Perry,1293,71,NOR,6,195,2023,Wake Forest,2021,Wake Forest,14,71,1293,18.2,15,92.4,WR,SO,at-perry-1
+72,Skyy Moore,1292,95,KAN,2,54,2022,Western Michigan,2021,Western Michigan,12,95,1292,13.6,9,107.7,WR,SO,skyy-moore-1
+73,Sterling Shepard,1288,86,NYG,2,40,2016,Oklahoma,2015,Oklahoma,13,86,1288,15.0,11,99.1,WR,SR,sterling-shepard-1
+74,David Bell,1286,93,CLE,3,99,2022,Purdue,2021,Purdue,11,93,1286,13.8,6,116.9,WR,JR,david-bell-6
+75,Justin Hardy,1284,114,ATL,4,107,2015,East Carolina,2013,East Carolina,13,114,1284,11.3,8,98.8,WR,JR,justin-hardy-1
+76,Trent Taylor,1282,99,SFO,5,177,2017,Louisiana Tech,2015,Louisiana Tech,13,99,1282,12.9,9,98.6,WR,JR,trent-taylor-2
+77,Tajae Sharpe,1281,85,OTI,5,140,2016,Massachusetts,2014,Massachusetts,12,85,1281,15.1,7,106.8,WR,JR,tajae-sharpe-1
+78,Diontae Johnson,1278,74,PIT,3,66,2019,Toledo,2017,Toledo,14,74,1278,17.3,13,91.3,WR,SO,diontae-johnson-1
+79,Chatarius Atwell,1276,70,RAM,2,57,2021,Louisville,2019,Louisville,13,70,1276,18.2,12,98.2,WR,SO,chatarius-atwell-1
+80,Michael Pittman Jr.,1275,101,CLT,2,34,2020,USC,2019,USC,13,101,1275,12.6,11,98.1,WR,SR,michael-pittman-jr-1
+81,Michael Gallup,1272,76,DAL,3,81,2018,Colorado State,2016,Colorado State,13,76,1272,16.7,14,97.8,WR,JR,michael-gallup-1
+82,Jakeem Grant,1268,90,MIA,6,186,2016,Texas Tech,2015,Texas Tech,13,90,1268,14.1,10,97.5,WR,SR,jakeem-grant-1
+83,Jalin Hyatt,1267,67,NYG,3,73,2023,Tennessee,2022,Tennessee,12,67,1267,18.9,15,105.6,WR,JR,jalin-hyatt-1
+84,Jordan Lasley,1264,69,RAV,5,162,2018,UCLA,2017,UCLA,9,69,1264,18.3,9,140.4,WR,JR,jordan-lasley-1
+85,Marvin Harrison Jr.,1263,77,CRD,1,4,2024,Ohio State,2022,Ohio State,13,77,1263,16.4,14,97.2,WR,SO,marvin-harrison-jr-1
+86,Tyler Lockett,1262,81,SEA,3,69,2015,Kansas State,2013,Kansas State,12,81,1262,15.6,11,105.2,WR,JR,tyler-lockett-1
+87,Tyler Boyd,1261,78,CIN,2,55,2016,Pitt,2014,Pitt,13,78,1261,16.2,8,97.0,WR,SO,tyler-boyd-1
+88,Aaron Burbridge,1258,85,SFO,6,213,2016,Michigan State,2015,Michigan State,14,85,1258,14.8,7,89.9,WR,SR,aaron-burbridge-1
+89,William Fuller,1258,62,HTX,1,21,2016,Notre Dame,2015,Notre Dame,13,62,1258,20.3,14,96.8,WR,JR,william-fuller-2
+90,DeVonta Smith,1256,68,PHI,1,10,2021,Alabama,2019,Alabama,13,68,1256,18.5,14,96.6,WR,JR,devonta-smith-1
+91,Xavier Legette,1255,71,CAR,1,32,2024,South Carolina,2023,South Carolina,12,71,1255,17.7,7,104.6,WR,SR,xavier-legette-1
+92,A.J. Brown,1252,75,OTI,2,51,2019,Ole Miss,2017,Ole Miss,12,75,1252,16.7,11,104.3,WR,SO,aj-brown-3
+93,Chad Hansen,1249,92,NYJ,4,141,2017,California,2016,California,10,92,1249,13.6,11,124.9,WR,JR,chad-hansen-1
+94,Courtland Sutton,1246,76,DEN,2,40,2018,SMU,2016,SMU,12,76,1246,16.4,10,103.8,WR,SO,courtland-sutton-1
+95,Gabriel Davis,1241,72,BUF,4,128,2020,UCF,2019,UCF,12,72,1241,17.2,12,103.4,WR,JR,gabriel-davis-1
+96,Trey Quinn,1236,114,WAS,7,256,2018,SMU,2017,SMU,13,114,1236,10.8,13,95.1,WR,JR,trey-quinn-1
+97,James Proche,1225,111,RAV,6,201,2020,SMU,2019,SMU,13,111,1225,11.0,15,94.2,WR,SR,james-proche-1
+98,Demarcus Ayers,1222,98,PIT,7,229,2016,Houston,2015,Houston,14,98,1222,12.5,6,87.3,WR,JR,demarcus-ayers-1
+99,Rashod Bateman,1219,60,RAV,1,27,2021,Minnesota,2019,Minnesota,13,60,1219,20.3,11,93.8,WR,SO,rashod-bateman-1
+100,Marvin Harrison Jr.,1211,67,CRD,1,4,2024,Ohio State,2023,Ohio State,12,67,1211,18.1,14,100.9,WR,JR,marvin-harrison-jr-1
+101,Dontayvion Wicks,1203,57,GNB,5,159,2023,Virginia,2021,Virginia,12,57,1203,21.1,9,100.3,WR,SO,dontayvion-wicks-1
+102,James Proche,1199,93,RAV,6,201,2020,SMU,2018,SMU,12,93,1199,12.9,12,99.9,WR,JR,james-proche-1
+103,Tony Lippett,1198,65,MIA,5,156,2015,Michigan State,2014,Michigan State,13,65,1198,18.4,11,92.2,WR,SR,tony-lippett-1
+104,Elijah Moore,1193,86,NYJ,2,34,2021,Ole Miss,2020,Ole Miss,8,86,1193,13.9,8,149.1,WR,JR,elijah-moore-1
+105,Jarvis Landry,1193,77,MIA,2,63,2014,LSU,2013,LSU,13,77,1193,15.5,10,91.8,WR,JR,jarvis-landry-1
+106,Brandon Aiyuk,1192,65,SFO,1,25,2020,Arizona State,2019,Arizona State,12,65,1192,18.3,8,99.3,WR,SR,brandon-aiyuk-1
+107,Jaelon Darden,1190,74,TAM,4,129,2021,North Texas,2020,North Texas,9,74,1190,16.1,19,132.2,WR,SR,jaelon-darden-1
+108,Dax Milne,1188,70,WAS,7,258,2021,BYU,2020,BYU,12,70,1188,17.0,8,99.0,WR,JR,dax-milne-1
+109,Kelvin Harmon,1186,81,WAS,6,206,2019,North Carolina State,2018,North Carolina State,12,81,1186,14.6,7,98.8,WR,JR,kelvin-harmon-1
+110,Dillon Mitchell,1184,75,MIN,7,239,2019,Oregon,2018,Oregon,13,75,1184,15.8,10,91.1,WR,JR,dillon-mitchell-1
+111,Jahan Dotson,1182,91,WAS,1,16,2022,Penn State,2021,Penn State,12,91,1182,13.0,12,98.5,WR,SR,jahan-dotson-1
+112,Quez Watkins,1178,64,PHI,6,200,2020,Southern Mississippi,2019,Southern Mississippi,12,64,1178,18.4,6,98.2,WR,JR,quez-watkins-1
+113,Brian Thomas Jr.,1177,68,JAX,1,23,2024,LSU,2023,LSU,13,68,1177,17.3,17,90.5,WR,JR,brian-thomas-jr-1
+114,Isaiah Hodgins,1171,86,BUF,6,207,2020,Oregon State,2019,Oregon State,12,86,1171,13.6,13,97.6,WR,JR,isaiah-hodgins-1
+115,Tre'Quan Smith,1171,59,NOR,3,91,2018,UCF,2017,UCF,13,59,1171,19.8,13,90.1,WR,JR,trequan-smith-1
+116,Xavier Hutchinson,1171,107,HTX,6,205,2023,Iowa State,2022,Iowa State,12,107,1171,10.9,6,97.6,WR,SR,xavier-hutchinson-1
+117,Tyler Johnson,1169,78,TAM,5,161,2020,Minnesota,2018,Minnesota,13,78,1169,15.0,12,89.9,WR,JR,tyler-johnson-6
+118,Tee Higgins,1167,59,CIN,2,33,2020,Clemson,2019,Clemson,15,59,1167,19.8,13,77.8,WR,JR,tee-higgins-1
+119,Jaelen Strong,1165,82,HTX,3,70,2015,Arizona State,2014,Arizona State,12,82,1165,14.2,10,97.1,WR,JR,jaelen-strong-1
+120,Isaiah Ford,1164,75,MIA,7,237,2017,Virginia Tech,2015,Virginia Tech,13,75,1164,15.5,11,89.5,WR,SO,isaiah-ford-1
+121,Jerry Jeudy,1163,77,DEN,1,15,2020,Alabama,2019,Alabama,13,77,1163,15.1,10,89.5,WR,JR,jerry-jeudy-1
+122,Ja'lynn Polk,1159,69,NWE,2,37,2024,Washington,2023,Washington,15,69,1159,16.8,9,77.3,WR,SO,jalynn-polk-1
+123,CeeDee Lamb,1158,65,DAL,1,17,2020,Oklahoma,2018,Oklahoma,14,65,1158,17.8,11,82.7,WR,SO,ceedee-lamb-1
+124,Kenny Golladay,1156,87,DET,3,96,2017,Northern Illinois,2016,Northern Illinois,12,87,1156,13.3,8,96.3,WR,SR,kenny-golladay-1
+125,Marcell Ateman,1156,59,RAI,7,228,2018,Oklahoma State,2017,Oklahoma State,13,59,1156,19.6,8,88.9,WR,SR,marcell-ateman-1
+126,Laquon Treadwell,1153,82,MIN,1,23,2016,Ole Miss,2015,Ole Miss,13,82,1153,14.1,11,88.7,WR,JR,laquon-treadwell-1
+127,John Ross,1150,81,CIN,1,9,2017,Washington,2016,Washington,14,81,1150,14.2,17,82.1,WR,JR,john-ross-1
+128,Calvin Austin III,1149,74,PIT,4,138,2022,Memphis,2021,Memphis,12,74,1149,15.5,8,95.8,WR,SR,calvin-austin-iii-1
+129,Scott Miller,1148,71,TAM,6,208,2019,Bowling Green,2018,Bowling Green,11,71,1148,16.2,9,104.4,WR,SR,scott-miller-3
+130,Rome Odunze,1145,75,CHI,1,9,2024,Washington,2022,Washington,12,75,1145,15.3,7,95.4,WR,SO,rome-odunze-1
+131,John Metchie,1142,96,HTX,2,44,2022,Alabama,2021,Alabama,13,96,1142,11.9,8,87.8,WR,JR,john-metchie-1
+132,N'Keal Harry,1142,82,NWE,1,32,2019,Arizona State,2017,Arizona State,13,82,1142,13.9,8,87.8,WR,SO,nkeal-harry-1
+133,Josh Huff,1140,62,PHI,3,86,2014,Oregon,2013,Oregon,13,62,1140,18.4,12,87.7,WR,SR,josh-huff-1
+134,Javon Baker,1139,52,NWE,4,110,2024,UCF,2023,UCF,13,52,1139,21.9,7,87.6,WR,SR,javon-baker-1
+135,Pharoh Cooper,1136,69,RAM,4,117,2016,South Carolina,2014,South Carolina,13,69,1136,16.5,9,87.4,WR,SO,pharoh-cooper-1
+136,Kenny Golladay,1129,73,DET,3,96,2017,Northern Illinois,2015,Northern Illinois,14,73,1129,15.5,10,80.6,WR,JR,kenny-golladay-1
+137,Rashad Greene,1128,76,JAX,5,139,2015,Florida State,2013,Florida State,14,76,1128,14.8,9,80.6,WR,JR,rashad-greene-1
+138,Jaelen Strong,1122,75,HTX,3,70,2015,Arizona State,2013,Arizona State,14,75,1122,15.0,7,80.1,WR,SO,jaelen-strong-1
+139,Jamari Thrash,1122,61,CLE,5,156,2024,Louisville,2022,Georgia State,12,61,1122,18.4,7,93.5,WR,JR,jamari-thrash-1
+140,Corey Coleman,1119,64,CLE,1,15,2016,Baylor,2014,Baylor,10,64,1119,17.5,11,111.9,WR,SO,corey-coleman-1
+141,Khalil Shakir,1117,77,BUF,5,148,2022,Boise State,2021,Boise State,12,77,1117,14.5,7,93.1,WR,SR,khalil-shakir-1
+142,Ryan Switzer,1112,96,DAL,4,133,2017,North Carolina,2016,North Carolina,13,96,1112,11.6,6,85.5,WR,SR,ryan-switzer-1
+143,Romeo Doubs,1109,80,GNB,4,132,2022,Nevada,2021,Nevada,11,80,1109,13.9,11,100.8,WR,SR,romeo-doubs-1
+144,T.J. Jones,1108,70,DET,6,189,2014,Notre Dame,2013,Notre Dame,13,70,1108,15.8,9,85.2,WR,SR,tj-jones-2
+145,Tyler Johnson,1107,72,TAM,5,161,2020,Minnesota,2019,Minnesota,11,72,1107,15.4,10,100.6,WR,SR,tyler-johnson-6
+146,Jordan Payton,1106,78,CLE,5,154,2016,UCLA,2015,UCLA,13,78,1106,14.2,5,85.1,WR,SR,jordan-payton-1
+147,Treylon Burks,1104,66,OTI,1,18,2022,Arkansas,2021,Arkansas,12,66,1104,16.7,11,92.0,WR,JR,treylon-burks-1
+148,Chris Godwin,1101,69,TAM,3,84,2017,Penn State,2015,Penn State,13,69,1101,16.0,5,84.7,WR,SO,chris-godwin-1
+149,Dyami Brown,1099,55,WAS,3,82,2021,North Carolina,2020,North Carolina,11,55,1099,20.0,8,99.9,WR,JR,dyami-brown-1
+150,Zay Jones,1099,98,BUF,2,37,2017,East Carolina,2015,East Carolina,12,98,1099,11.2,5,91.6,WR,JR,isaiah-jones-2
+151,Jalen McMillan,1098,79,TAM,3,92,2024,Washington,2022,Washington,13,79,1098,13.9,9,84.5,WR,SO,jalen-mcmillan-1
+152,A.T. Perry,1096,81,NOR,6,195,2023,Wake Forest,2022,Wake Forest,13,81,1096,13.5,11,84.3,WR,JR,at-perry-1
+153,Cody Latimer,1096,72,DEN,2,56,2014,Indiana,2013,Indiana,12,72,1096,15.2,9,91.3,WR,JR,cody-latimer-1
+154,Gary Jennings,1096,97,SEA,4,120,2019,West Virginia,2017,West Virginia,13,97,1096,11.3,1,84.3,WR,JR,gary-jennings-1
+155,Marquise Brown,1095,57,RAV,1,25,2019,Oklahoma,2017,Oklahoma,13,57,1095,19.2,7,84.2,WR,SO,marquise-brown-1
+156,Isaiah Ford,1094,79,MIA,7,237,2017,Virginia Tech,2016,Virginia Tech,14,79,1094,13.8,7,78.1,WR,JR,isaiah-ford-1
+157,William Fuller,1094,76,HTX,1,21,2016,Notre Dame,2014,Notre Dame,13,76,1094,14.4,15,84.2,WR,SO,william-fuller-2
+158,N'Keal Harry,1088,73,NWE,1,32,2019,Arizona State,2018,Arizona State,12,73,1088,14.9,9,90.7,WR,JR,nkeal-harry-1
+159,Denzel Mims,1087,61,NYJ,2,59,2020,Baylor,2017,Baylor,12,61,1087,17.8,8,90.6,WR,SO,denzel-mims-1
+160,James Washington,1087,53,PIT,2,60,2018,Oklahoma State,2015,Oklahoma State,13,53,1087,20.5,10,83.6,WR,SO,james-washington-5
+161,Leonte Carroo,1086,55,MIA,3,86,2016,Rutgers,2014,Rutgers,13,55,1086,19.7,10,83.5,WR,JR,leonte-carroo-1
+162,Courtland Sutton,1085,68,DEN,2,40,2018,SMU,2017,SMU,13,68,1085,16.0,12,83.5,WR,JR,courtland-sutton-1
+163,Geremy Davis,1085,71,NYG,6,186,2015,Connecticut,2013,Connecticut,12,71,1085,15.3,3,90.4,WR,JR,geremy-davis-1
+164,Jalen Tolbert,1085,64,DAL,3,88,2022,South Alabama,2020,South Alabama,11,64,1085,17.0,8,98.6,WR,JR,jalen-tolbert-1
+165,Drake London,1084,88,ATL,1,8,2022,USC,2021,USC,8,88,1084,12.3,7,135.5,WR,JR,drake-london-1
+166,Marvin Mims,1083,54,DEN,2,63,2023,Oklahoma,2022,Oklahoma,13,54,1083,20.1,6,83.3,WR,JR,marvin-mims-1
+167,Travis Fulgham,1083,63,DET,6,184,2019,Old Dominion,2018,Old Dominion,12,63,1083,17.2,9,90.3,WR,SR,travis-fulgham-1
+168,J'Mon Moore,1082,65,GNB,4,133,2018,Missouri,2017,Missouri,13,65,1082,16.6,10,83.2,WR,SR,jmon-moore-2
+169,Cedric Tillman,1081,64,CLE,3,74,2023,Tennessee,2021,Tennessee,13,64,1081,16.9,12,83.2,WR,JR,cedric-tillman-1
+170,Jared Abbrederis,1081,78,GNB,5,176,2014,Wisconsin,2013,Wisconsin,13,78,1081,13.9,7,83.2,WR,SR,jared-abbrederis-1
+171,Jaleel Scott,1079,76,RAV,4,132,2018,New Mexico State,2017,New Mexico State,13,76,1079,14.2,9,83.0,WR,SR,jaleel-scott-1
+172,Zay Flowers,1077,78,RAV,1,22,2023,Boston College,2022,Boston College,12,78,1077,13.8,12,89.8,WR,SR,zay-flowers-1
+173,Devin Lucien,1075,66,NWE,7,225,2016,Arizona State,2015,Arizona State,13,66,1075,16.3,8,82.7,WR,SR,devin-lucien-1
+174,Quentin Johnston,1069,60,SDG,1,21,2023,Texas Christian,2022,Texas Christian,14,60,1069,17.8,6,76.4,WR,JR,quentin-johnston-1
+175,Parris Campbell,1063,90,CLT,2,59,2019,Ohio State,2018,Ohio State,14,90,1063,11.8,12,75.9,WR,SR,parris-campbell-1
+176,Rashard Higgins,1062,75,CLE,5,172,2016,Colorado State,2015,Colorado State,12,75,1062,14.2,8,88.5,WR,JR,rashard-higgins-1
+177,Tahj Washington,1062,59,MIA,7,241,2024,USC,2023,USC,13,59,1062,18.0,8,81.7,WR,SR,tahj-washington-1
+178,Jalen Reagor,1061,72,PHI,1,21,2020,Texas Christian,2018,Texas Christian,13,72,1061,14.7,9,81.6,WR,SO,jalen-reagor-1
+179,JJ Arcega-Whiteside,1059,63,PHI,2,57,2019,Stanford,2018,Stanford,12,63,1059,16.8,14,88.3,WR,SR,jj-arcega-whiteside-1
+180,Garrett Wilson,1058,70,NYJ,1,10,2022,Ohio State,2021,Ohio State,11,70,1058,15.1,12,96.2,WR,JR,garrett-wilson-2
+181,Calvin Austin III,1053,63,PIT,4,138,2022,Memphis,2020,Memphis,11,63,1053,16.7,11,95.7,WR,JR,calvin-austin-iii-1
+182,Breshad Perriman,1044,50,RAV,1,26,2015,UCF,2014,UCF,13,50,1044,20.9,9,80.3,WR,JR,breshad-perriman-1
+183,Jamison Crowder,1044,85,WAS,4,105,2015,Duke,2014,Duke,13,85,1044,12.3,6,80.3,WR,SR,jamison-crowder-1
+184,Trey Palmer,1043,71,TAM,6,191,2023,Nebraska,2022,Nebraska,12,71,1043,14.7,9,86.9,WR,JR,trey-palmer-1
+185,Amon-Ra St. Brown,1042,77,DET,4,112,2021,USC,2019,USC,13,77,1042,13.5,6,80.2,WR,SO,amon-ra-st-brown-1
+186,Josh Reynolds,1039,61,RAM,4,117,2017,Texas A&M,2016,Texas A&M,13,61,1039,17.0,12,79.9,WR,SR,josh-reynolds-1
+187,Ryan Grant,1039,77,WAS,5,142,2014,Tulane,2013,Tulane,13,77,1039,13.5,9,79.9,WR,SR,ryan-grant-2
+188,Antonio Gandy-Golden,1037,71,WAS,4,142,2020,Liberty,2018,Liberty,11,71,1037,14.6,10,94.3,WR,JR,antonio-gandy-golden-1
+189,Chase Claypool,1037,66,PIT,2,49,2020,Notre Dame,2019,Notre Dame,13,66,1037,15.7,13,79.8,WR,SR,chase-claypool-1
+190,Dyami Brown,1034,51,WAS,3,82,2021,North Carolina,2019,North Carolina,13,51,1034,20.3,12,79.5,WR,SO,dyami-brown-1
+191,Jacob Cowing,1034,85,SFO,4,135,2024,Arizona,2022,Arizona,12,85,1034,12.2,7,86.2,WR,JR,jacob-cowing-1
+192,D.J. Moore,1033,80,CAR,1,24,2018,Maryland,2017,Maryland,12,80,1033,12.9,8,86.1,WR,JR,dj-moore-3
+193,Mike Williams,1030,57,SDG,1,7,2017,Clemson,2014,Clemson,13,57,1030,18.1,6,79.2,WR,SO,mike-williams-17
+194,Josh Downs,1029,94,CLT,3,79,2023,North Carolina,2022,North Carolina,11,94,1029,10.9,11,93.5,WR,JR,josh-downs-2
+195,Jayden Reed,1026,59,GNB,2,50,2023,Michigan State,2021,Michigan State,13,59,1026,17.4,10,78.9,WR,JR,jayden-reed-1
+196,Amari Rodgers,1020,77,GNB,3,85,2021,Clemson,2020,Clemson,12,77,1020,13.2,7,85.0,WR,SR,amari-rodgers-1
+197,Andy Isabella,1020,65,CRD,2,62,2019,Massachusetts,2017,Massachusetts,12,65,1020,15.7,10,85.0,WR,JR,andy-isabella-1
+198,Denzel Mims,1020,66,NYJ,2,59,2020,Baylor,2019,Baylor,14,66,1020,15.5,12,72.9,WR,SR,denzel-mims-1
+199,Marquez Stevenson,1019,75,BUF,6,203,2021,Houston,2018,Houston,13,75,1019,13.6,9,78.4,WR,SO,marquez-stevenson-1
+200,Dazz Newsome,1018,72,CHI,6,221,2021,North Carolina,2019,North Carolina,12,72,1018,14.1,10,84.8,WR,JR,dazz-newsome-1
+201,Josh Doctson,1018,65,WAS,1,22,2016,Texas Christian,2014,Texas Christian,13,65,1018,15.7,11,78.3,WR,JR,josh-doctson-1
+202,Kelvin Harmon,1017,69,WAS,6,206,2019,North Carolina State,2017,North Carolina State,13,69,1017,14.7,4,78.2,WR,SO,kelvin-harmon-1
+203,Malik Nabers,1017,72,NYG,1,6,2024,LSU,2022,LSU,14,72,1017,14.1,3,72.6,WR,SO,malik-nabers-1
+204,Xavier Worthy,1014,75,KAN,1,28,2024,Texas,2023,Texas,14,75,1014,13.5,5,72.4,WR,JR,xavier-worthy-1
+205,KeeSean Johnson,1013,77,CRD,6,174,2019,Fresno State,2017,Fresno State,14,77,1013,13.2,8,72.4,WR,JR,keesean-johnson-1
+206,J'Mon Moore,1012,62,GNB,4,133,2018,Missouri,2016,Missouri,12,62,1012,16.3,8,84.3,WR,JR,jmon-moore-2
+207,Kelvin Benjamin,1011,54,CAR,1,28,2014,Florida State,2013,Florida State,14,54,1011,18.7,15,72.2,WR,SO,kelvin-benjamin-1
+208,Laviska Shenault Jr.,1011,86,JAX,2,42,2020,Colorado,2018,Colorado,9,86,1011,11.8,6,112.3,WR,SO,laviska-shenault-jr-1
+209,Bud Sasser,1003,77,RAM,6,201,2015,Missouri,2014,Missouri,14,77,1003,13.0,12,71.6,WR,SR,bud-sasser-1
+210,Romeo Doubs,1002,58,GNB,4,132,2022,Nevada,2020,Nevada,9,58,1002,17.3,9,111.3,WR,JR,romeo-doubs-1
+211,Daniel Braverman,997,86,CHI,7,230,2016,Western Michigan,2014,Western Michigan,13,86,997,11.6,6,76.7,WR,SO,daniel-braverman-1
+212,Darnell Mooney,993,48,CHI,5,173,2020,Tulane,2018,Tulane,13,48,993,20.7,8,76.4,WR,JR,darnell-mooney-1
+213,Demario Douglas,993,79,NWE,6,210,2023,Liberty,2022,Liberty,13,79,993,12.6,6,76.4,WR,SO,demario-douglas-1
+214,Luke McCaffrey,992,71,WAS,3,100,2024,Rice,2023,Rice,13,71,992,14.0,13,76.3,WR,JR,luke-mccaffrey-1
+215,Xavier Hutchinson,987,83,HTX,6,205,2023,Iowa State,2021,Iowa State,13,83,987,11.9,5,75.9,WR,SR,xavier-hutchinson-1
+216,Collin Johnson,985,68,JAX,5,165,2020,Texas,2018,Texas,13,68,985,14.5,7,75.8,WR,JR,collin-johnson-2
+217,Kadarius Toney,984,70,NYG,1,20,2021,Florida,2020,Florida,11,70,984,14.1,10,89.5,WR,SR,kadarius-toney-1
+218,Malachi Corley,984,79,NYJ,3,65,2024,Western Kentucky,2023,Western Kentucky,12,79,984,12.5,11,82.0,WR,JR,malachi-corley-1
+219,Chris Godwin,982,59,TAM,3,84,2017,Penn State,2016,Penn State,14,59,982,16.6,11,70.1,WR,JR,chris-godwin-1
+220,Robert Davis,980,61,WAS,6,209,2017,Georgia State,2015,Georgia State,13,61,980,16.1,6,75.4,WR,JR,robert-davis-10
+221,Pharoh Cooper,973,66,RAM,4,117,2016,South Carolina,2015,South Carolina,12,66,973,14.7,8,81.1,WR,JR,pharoh-cooper-1
+222,Josh Malone,972,50,CIN,4,128,2017,Tennessee,2016,Tennessee,13,50,972,19.4,11,74.8,WR,JR,josh-malone-1
+223,Sterling Shepard,970,51,NYG,2,40,2016,Oklahoma,2014,Oklahoma,12,51,970,19.0,5,80.8,WR,JR,sterling-shepard-1
+224,Jauan Jennings,969,59,SFO,7,217,2020,Tennessee,2019,Tennessee,13,59,969,16.4,8,74.5,WR,SR,jauan-jennings-1
+225,Robert Davis,968,67,WAS,6,209,2017,Georgia State,2016,Georgia State,12,67,968,14.4,5,80.7,WR,SR,robert-davis-10
+226,Scott Miller,968,74,TAM,6,208,2019,Bowling Green,2016,Bowling Green,12,74,968,13.1,10,80.7,WR,SO,scott-miller-3
+227,Calvin Ridley,967,63,ATL,1,26,2018,Alabama,2017,Alabama,14,63,967,15.3,5,69.1,WR,JR,calvin-ridley-1
+228,Ricky Pearsall,965,65,SFO,1,31,2024,Florida,2023,Florida,12,65,965,14.8,4,80.4,WR,SR,ricky-pearsall-1
+229,Equanimeous St. Brown,961,58,GNB,6,207,2018,Notre Dame,2016,Notre Dame,12,58,961,16.6,9,80.1,WR,SO,equanimeous-st-brown-1
+230,Ty Montgomery,958,61,GNB,3,94,2015,Stanford,2013,Stanford,14,61,958,15.7,10,68.4,WR,SO,ty-montgomery-1
+231,Jordan Payton,954,67,CLE,5,154,2016,UCLA,2014,UCLA,13,67,954,14.2,7,73.4,WR,JR,jordan-payton-1
+232,Deangelo Yancey,951,49,GNB,5,175,2017,Purdue,2016,Purdue,12,49,951,19.4,10,79.3,WR,SR,deangelo-yancey-1
+233,Shelton Gibson,951,43,PHI,5,166,2017,West Virginia,2016,West Virginia,13,43,951,22.1,8,73.2,WR,JR,shelton-gibson-1
+234,Tyquan Thornton,948,62,NWE,2,50,2022,Baylor,2021,Baylor,14,62,948,15.3,10,67.7,WR,SR,tyquan-thornton-1
+235,Jalen Hurd,946,69,SFO,3,67,2019,Baylor,2018,Baylor,12,69,946,13.7,4,78.8,WR,SR,jalen-hurd-1
+236,Mario Alford,945,65,CIN,7,238,2015,West Virginia,2014,West Virginia,13,65,945,14.5,11,72.7,WR,SR,mario-alford-1
+237,John Hightower,943,51,PHI,5,168,2020,Boise State,2019,Boise State,14,51,943,18.5,8,67.4,WR,SR,john-hightower-1
+238,Donte Moncrief,938,59,CLT,3,90,2014,Ole Miss,2013,Ole Miss,13,59,938,15.9,6,72.2,WR,JR,donte-moncrief-1
+239,Jakeem Grant,938,67,MIA,6,186,2016,Texas Tech,2014,Texas Tech,12,67,938,14.0,7,78.2,WR,JR,jakeem-grant-1
+240,Chris Olave,936,65,NOR,1,11,2022,Ohio State,2021,Ohio State,12,65,936,14.4,13,78.0,WR,SR,chris-olave-1
+241,Tee Higgins,936,59,CIN,2,33,2020,Clemson,2018,Clemson,15,59,936,15.9,12,62.4,WR,SO,tee-higgins-1
+242,Robert Herron,932,72,TAM,6,185,2014,Wyoming,2013,Wyoming,12,72,932,12.9,9,77.7,WR,SR,robert-herron-1
+243,Devin Smith,931,33,NYJ,2,37,2015,Ohio State,2014,Ohio State,15,33,931,28.2,12,62.1,WR,SR,devin-smith-2
+244,Christian Kirk,928,83,CRD,2,47,2018,Texas A&M,2016,Texas A&M,13,83,928,11.2,9,71.4,WR,SO,christian-kirk-1
+245,Tyler Boyd,926,91,CIN,2,55,2016,Pitt,2015,Pitt,12,91,926,10.2,6,77.2,WR,JR,tyler-boyd-1
+246,Tylan Wallace,922,59,RAV,4,131,2021,Oklahoma State,2020,Oklahoma State,10,59,922,15.6,6,92.2,WR,SR,tylan-wallace-1
+247,Devontez Walker,921,58,RAV,4,113,2024,North Carolina,2022,Kent State,12,58,921,15.9,11,76.8,WR,SO,devontez-walker-1
+248,Christian Kirk,919,71,CRD,2,47,2018,Texas A&M,2017,Texas A&M,13,71,919,12.9,10,70.7,WR,JR,christian-kirk-1
+249,Nelson Agholor,918,56,PHI,1,20,2015,USC,2013,USC,14,56,918,16.4,6,65.6,WR,SO,nelson-agholor-1
+250,Gary Jennings,917,54,SEA,4,120,2019,West Virginia,2018,West Virginia,11,54,917,17.0,13,83.4,WR,SR,gary-jennings-1
+251,John Metchie,916,55,HTX,2,44,2022,Alabama,2020,Alabama,13,55,916,16.7,6,70.5,WR,SO,john-metchie-1
+252,JuJu Smith-Schuster,914,70,PIT,2,62,2017,USC,2016,USC,13,70,914,13.1,10,70.3,WR,JR,juju-smith-1
+253,Josh Reynolds,907,51,RAM,4,117,2017,Texas A&M,2015,Texas A&M,12,51,907,17.8,5,75.6,WR,JR,josh-reynolds-1
+254,Marquez Stevenson,907,52,BUF,6,203,2021,Houston,2019,Houston,12,52,907,17.4,9,75.6,WR,JR,marquez-stevenson-1
+255,KJ Hamler,904,56,DEN,2,46,2020,Penn State,2019,Penn State,13,56,904,16.1,8,69.5,WR,SO,kj-hamler-1
+256,Tylan Wallace,903,53,RAV,4,131,2021,Oklahoma State,2019,Oklahoma State,9,53,903,17.0,8,100.3,WR,JR,tylan-wallace-1
+257,Sammie Coates,902,42,PIT,3,87,2015,Auburn,2013,Auburn,13,42,902,21.5,7,69.4,WR,SO,sammie-coates-1
+258,Tyler Scott,899,54,CHI,4,133,2023,Cincinnati,2022,Cincinnati,11,54,899,16.6,9,81.7,WR,JR,tyler-scott-3
+259,Samori Toure,898,46,GNB,7,258,2022,Nebraska,2021,Nebraska,12,46,898,19.5,5,74.8,WR,SR,samori-toure-1
+260,Johnny Wilson,897,43,PHI,6,185,2024,Florida State,2022,Florida State,13,43,897,20.9,5,69.0,WR,SO,johnny-wilson-3
+261,Grant Dubose,892,62,GNB,7,256,2023,Charlotte,2021,Charlotte,12,62,892,14.4,6,74.3,WR,SO,grant-dubose-1
+262,K.J. Osborn,892,53,MIN,5,176,2020,Miami (FL),2018,Buffalo,14,53,892,16.8,7,63.7,WR,JR,kj-osborn-1
+263,Zay Flowers,892,56,RAV,1,22,2023,Boston College,2020,Boston College,11,56,892,15.9,9,81.1,WR,SO,zay-flowers-1
+264,Troy Franklin,891,61,DEN,4,102,2024,Oregon,2022,Oregon,13,61,891,14.6,9,68.5,WR,SO,troy-franklin-2
+265,Keke Coutee,890,55,HTX,4,103,2018,Texas Tech,2016,Texas Tech,12,55,890,16.2,7,74.2,WR,SO,keke-coutee-1
+266,Quez Watkins,889,72,PHI,6,200,2020,Southern Mississippi,2018,Southern Mississippi,11,72,889,12.3,9,80.8,WR,SO,quez-watkins-1
+267,Ronnie Bell,889,62,SFO,7,253,2023,Michigan,2022,Michigan,14,62,889,14.3,4,63.5,WR,SR,ronnie-bell-3
+268,Shelton Gibson,887,37,PHI,5,166,2017,West Virginia,2015,West Virginia,13,37,887,24.0,9,68.2,WR,SO,shelton-gibson-1
+269,Devante Parker,885,55,MIA,1,14,2015,Louisville,2013,Louisville,12,55,885,16.1,12,73.8,WR,JR,devante-parker-1
+270,K.J. Hill,885,70,SDG,7,220,2020,Ohio State,2018,Ohio State,14,70,885,12.6,6,63.2,WR,JR,kj-hill-1
+271,Alec Pierce,884,52,CLT,2,53,2022,Cincinnati,2021,Cincinnati,14,52,884,17.0,7,63.1,WR,SR,alec-pierce-2
+272,Jahan Dotson,884,52,WAS,1,16,2022,Penn State,2020,Penn State,9,52,884,17.0,8,98.2,WR,JR,jahan-dotson-1
+273,Dorial Green-Beckham,883,59,OTI,2,40,2015,Oklahoma,2013,Missouri,14,59,883,15.0,12,63.1,WR,SO,dorial-green-beckham-1
+274,Cornell Powell,882,53,KAN,5,181,2021,Clemson,2020,Clemson,12,53,882,16.6,7,73.5,WR,SR,cornell-powell-1
+275,Deebo Samuel,882,62,SFO,2,36,2019,South Carolina,2018,South Carolina,12,62,882,14.2,11,73.5,WR,SR,deebo-samuel-1
+276,Marquez Valdes-Scantling,879,53,GNB,5,174,2018,South Florida,2017,South Florida,12,53,879,16.6,6,73.3,WR,SR,marquez-valdes-scantling-1
+277,Isaiah Hodgins,876,59,BUF,6,207,2020,Oregon State,2018,Oregon State,11,59,876,14.8,5,79.6,WR,SO,isaiah-hodgins-1
+278,Jordan Addison,875,59,MIN,1,23,2023,USC,2022,USC,11,59,875,14.8,8,79.5,WR,JR,jordan-addison-1
+279,Justin Jefferson,875,54,MIN,1,22,2020,LSU,2018,LSU,13,54,875,16.2,6,67.3,WR,SO,justin-jefferson-1
+280,D.J. Chark,874,40,JAX,2,61,2018,LSU,2017,LSU,13,40,874,21.9,3,67.2,WR,SR,dj-chark-1
+281,Khalil Shakir,872,63,BUF,5,148,2022,Boise State,2019,Boise State,14,63,872,13.8,6,62.3,WR,SO,khalil-shakir-1
+282,Miles Boykin,872,59,RAV,3,93,2019,Notre Dame,2018,Notre Dame,13,59,872,14.8,8,67.1,WR,SR,miles-boykin-1
+283,Thomas Duarte,872,53,MIA,7,231,2016,UCLA,2015,UCLA,13,53,872,16.5,10,67.1,WR,JR,thomas-duarte-1
+284,Phillip Dorsett,871,36,CLT,1,29,2015,Miami (FL),2014,Miami (FL),13,36,871,24.2,10,67.0,WR,SR,phillip-dorsett-1
+285,Chris Moore,870,40,RAV,4,107,2016,Cincinnati,2015,Cincinnati,12,40,870,21.8,7,72.5,WR,SR,chris-moore-4
+286,Tevin Reese,867,38,SDG,7,240,2014,Baylor,2013,Baylor,8,38,867,22.8,8,108.4,WR,SR,tevin-reese-1
+287,Malcolm Mitchell,865,58,NWE,4,112,2016,Georgia,2015,Georgia,13,58,865,14.9,5,66.5,SE,SR,malcolm-mitchell-2
+288,Ardarius Stewart,864,54,NYJ,3,79,2017,Alabama,2016,Alabama,12,54,864,16.0,8,72.0,WR,JR,ardarius-stewart-1
+289,Amara Darboh,862,57,SEA,3,106,2017,Michigan,2016,Michigan,13,57,862,15.1,7,66.3,WR,SR,amara-darboh-1
+290,Jonathan Mingo,861,51,CAR,2,39,2023,Ole Miss,2022,Ole Miss,13,51,861,16.9,5,66.2,WR,SR,jonathan-mingo-1
+291,Jamari Thrash,858,63,CLE,5,156,2024,Louisville,2023,Louisville,12,63,858,13.6,6,71.5,WR,SR,jamari-thrash-1
+292,Tejhaun Palmer,858,47,CRD,6,191,2024,UAB,2023,UAB,12,47,858,18.3,7,71.5,WR,SR,tejhaun-palmer-1
+293,DaeSean Hamilton,857,53,DEN,4,113,2018,Penn State,2017,Penn State,13,53,857,16.2,9,65.9,WR,SR,daesean-hamilton-1
+294,Devante Parker,855,43,MIA,1,14,2015,Louisville,2014,Louisville,7,43,855,19.9,5,122.1,WR,SR,devante-parker-1
+295,Marcus Green,855,50,ATL,6,203,2019,Louisiana-Monroe,2018,Louisiana-Monroe,12,50,855,17.1,8,71.3,WR,SR,marcus-green-6
+296,Devin Street,854,51,DAL,5,146,2014,Pitt,2013,Pitt,10,51,854,16.7,7,85.4,WR,SR,devin-street-1
+297,Tre'Quan Smith,853,57,NOR,3,91,2018,UCF,2016,UCF,13,57,853,15.0,5,65.6,WR,SO,trequan-smith-1
+298,Elijah Moore,850,67,NYJ,2,34,2021,Ole Miss,2019,Ole Miss,12,67,850,12.7,6,70.8,WR,SO,elijah-moore-1
+299,Chris Olave,849,49,NOR,1,11,2022,Ohio State,2019,Ohio State,14,49,849,17.3,12,60.6,WR,SO,chris-olave-1
+300,Jacob Cowing,848,90,SFO,4,135,2024,Arizona,2023,Arizona,13,90,848,9.4,13,65.2,WR,SR,jacob-cowing-1
+301,Bryan Edwards,846,55,RAI,3,81,2020,South Carolina,2018,South Carolina,13,55,846,15.4,7,65.1,WR,JR,bryan-edwards-1
+302,Adonai Mitchell,845,55,CLT,2,52,2024,Texas,2023,Texas,14,55,845,15.4,11,60.4,WR,JR,adonai-mitchell-1
+303,Josh Reynolds,842,52,RAM,4,117,2017,Texas A&M,2014,Texas A&M,13,52,842,16.2,13,64.8,WR,SO,josh-reynolds-1
+304,Trent Taylor,834,64,SFO,5,177,2017,Louisiana Tech,2014,Louisiana Tech,14,64,834,13.0,9,59.6,WR,SO,trent-taylor-2
+305,Dez Fitzpatrick,833,43,OTI,4,109,2021,Louisville,2020,Louisville,11,43,833,19.4,3,75.7,WR,SR,dez-fitzpatrick-1
+306,Zay Jones,830,81,BUF,2,37,2017,East Carolina,2014,East Carolina,13,81,830,10.2,5,63.8,WR,SO,isaiah-jones-2
+307,Seth Williams,830,59,DEN,6,219,2021,Auburn,2019,Auburn,12,59,830,14.1,8,69.2,WR,SO,seth-williams-1
+308,Tre Nixon,830,49,NWE,7,242,2021,UCF,2019,UCF,13,49,830,16.9,7,63.8,WR,JR,tre-nixon-1
+309,Marcus Green,829,54,ATL,6,203,2019,Louisiana-Monroe,2017,Louisiana-Monroe,12,54,829,15.4,5,69.1,WR,JR,marcus-green-6
+310,Martavis Bryant,828,42,PIT,4,118,2014,Clemson,2013,Clemson,13,42,828,19.7,7,63.7,WR,JR,martavis-bryant-1
+311,Dante Pettis,822,53,SFO,2,44,2018,Washington,2016,Washington,14,53,822,15.5,15,58.7,WR,JR,dante-pettis-1
+312,Rodney Adams,822,45,MIN,5,170,2017,South Florida,2015,South Florida,13,45,822,18.3,9,63.2,WR,JR,rodney-adams-1
+313,Rodney Adams,822,67,MIN,5,170,2017,South Florida,2016,South Florida,13,67,822,12.3,5,63.2,WR,SR,rodney-adams-1
+314,Demarcus Robinson,821,54,KAN,4,126,2016,Florida,2014,Florida,12,54,821,15.2,7,68.4,WR,SO,demarcus-robinson-3
+315,Parker Washington,820,64,JAX,6,185,2023,Penn State,2021,Penn State,13,64,820,12.8,4,63.1,WR,SO,parker-washington-1
+316,Treylon Burks,820,51,OTI,1,18,2022,Arkansas,2020,Arkansas,9,51,820,16.1,7,91.1,WR,SO,treylon-burks-1
+317,Bryan Edwards,816,71,RAI,3,81,2020,South Carolina,2019,South Carolina,10,71,816,11.5,6,81.6,WR,SR,bryan-edwards-1
+318,Dezmon Patmon,816,61,CLT,6,212,2020,Washington State,2018,Washington State,13,61,816,13.4,5,62.8,WR,JR,dezmon-patmon-1
+319,Dylan Cantrell,816,71,SDG,6,191,2018,Texas Tech,2017,Texas Tech,13,71,816,11.5,7,62.8,WR,SR,dylan-cantrell-1
+320,James Proche,816,40,RAV,6,201,2020,SMU,2017,SMU,13,40,816,20.4,6,62.8,WR,SO,james-proche-1
+321,Gabriel Davis,815,53,BUF,4,128,2020,UCF,2018,UCF,12,53,815,15.4,7,67.9,WR,SO,gabriel-davis-1
+322,Breshad Perriman,811,39,RAV,1,26,2015,UCF,2013,UCF,12,39,811,20.8,4,67.6,WR,SO,breshad-perriman-1
+323,Leonte Carroo,809,39,MIA,3,86,2016,Rutgers,2015,Rutgers,8,39,809,20.7,10,101.1,WR,SR,leonte-carroo-1
+324,Velus Jones Jr.,807,62,CHI,3,71,2022,Tennessee,2021,Tennessee,13,62,807,13.0,7,62.1,WR,SR,velus-jones-jr-1
+325,Danny Gray,803,49,SFO,3,105,2022,SMU,2021,SMU,10,49,803,16.4,9,80.3,WR,SR,danny-gray-1
+326,Michael Campanaro,803,67,RAV,7,218,2014,Wake Forest,2013,Wake Forest,8,67,803,12.0,6,100.4,WR,SR,michael-campanaro-1
+327,Andy Isabella,801,62,CRD,2,62,2019,Massachusetts,2016,Massachusetts,12,62,801,12.9,7,66.8,WR,SO,andy-isabella-1
+328,Michael Thomas,799,54,NOR,2,47,2016,Ohio State,2014,Ohio State,15,54,799,14.8,9,53.3,WR,SO,michael-thomas-3
+329,Antoine Green,798,43,DET,7,219,2023,North Carolina,2022,North Carolina,9,43,798,18.6,7,88.7,WR,SR,antoine-green-1
+330,Jermaine Burton,798,39,CIN,3,80,2024,Alabama,2023,Alabama,13,39,798,20.5,8,61.4,WR,SR,jermaine-burton-1
+331,Keon Coleman,798,58,BUF,2,33,2024,Florida State,2022,Michigan State,12,58,798,13.8,7,66.5,WR,SO,keon-coleman-1
+332,Jakeem Grant,796,65,MIA,6,186,2016,Texas Tech,2013,Texas Tech,11,65,796,12.2,7,72.4,WR,SO,jakeem-grant-1
+333,Javon Baker,796,56,NWE,4,110,2024,UCF,2022,UCF,14,56,796,14.2,5,56.9,WR,JR,javon-baker-1
+334,Olabisi Johnson,796,54,MIN,7,247,2019,Colorado State,2018,Colorado State,11,54,796,14.7,4,72.4,WR,SR,olabisi-johnson-1
+335,Ainias Smith,795,53,PHI,5,152,2024,Texas A&M,2023,Texas A&M,12,53,795,15.0,2,66.3,WR,SR,ainias-smith-1
+336,Denzel Mims,794,55,NYJ,2,59,2020,Baylor,2018,Baylor,12,55,794,14.4,8,66.2,WR,JR,denzel-mims-1
+337,Bryan Edwards,793,64,RAI,3,81,2020,South Carolina,2017,South Carolina,13,64,793,12.4,5,61.0,WR,SO,bryan-edwards-1
+338,Grant Dubose,792,64,GNB,7,256,2023,Charlotte,2022,Charlotte,12,64,792,12.4,9,66.0,WR,JR,grant-dubose-1
+339,Stefon Diggs,792,62,MIN,5,146,2015,Maryland,2014,Maryland,10,62,792,12.8,5,79.2,WR,JR,stefon-diggs-1
+340,Brenden Rice,791,45,SDG,7,225,2024,USC,2023,USC,12,45,791,17.6,12,65.9,WR,SR,brenden-rice-1
+341,Marqise Lee,791,57,JAX,2,39,2014,USC,2013,USC,11,57,791,13.9,4,71.9,WR,JR,marqise-lee-1
+342,Roman Wilson,789,48,PIT,3,84,2024,Michigan,2023,Michigan,15,48,789,16.4,12,52.6,WR,SR,roman-wilson-1
+343,Kenny Bell,788,47,TAM,5,162,2015,Nebraska,2014,Nebraska,13,47,788,16.8,6,60.6,WR,SR,kenny-bell-2
+344,Tahj Washington,785,50,MIA,7,241,2024,USC,2022,USC,14,50,785,15.7,6,56.1,WR,JR,tahj-washington-1
+345,D'Wayne Eskridge,784,34,SEA,2,56,2021,Western Michigan,2020,Western Michigan,6,34,784,23.1,8,130.7,WR,SR,dwayne-eskridge-1
+346,Deebo Samuel,783,59,SFO,2,36,2019,South Carolina,2016,South Carolina,10,59,783,13.3,1,78.3,WR,SO,deebo-samuel-1
+347,Tyquan Thornton,782,45,NWE,2,50,2022,Baylor,2019,Baylor,14,45,782,17.4,5,55.9,WR,SO,tyquan-thornton-1
+348,JJ Arcega-Whiteside,781,48,PHI,2,57,2019,Stanford,2017,Stanford,12,48,781,16.3,9,65.1,WR,JR,jj-arcega-whiteside-1
+349,Michael Thomas,781,56,NOR,2,47,2016,Ohio State,2015,Ohio State,13,56,781,13.9,9,60.1,WR,JR,michael-thomas-3
+350,D'Wayne Eskridge,776,38,SEA,2,56,2021,Western Michigan,2018,Western Michigan,11,38,776,20.4,3,70.5,WR,JR,dwayne-eskridge-1
+351,Bruce Ellington,775,49,SFO,4,106,2014,South Carolina,2013,South Carolina,12,49,775,15.8,8,64.6,WR,JR,bruce-ellington-1
+352,Carlos Henderson,774,36,DEN,3,82,2017,Louisiana Tech,2015,Louisiana Tech,11,36,774,21.5,5,70.4,WR,SO,carlos-henderson-1
+353,KeeSean Johnson,773,66,CRD,6,174,2019,Fresno State,2016,Fresno State,12,66,773,11.7,6,64.4,WR,SO,keesean-johnson-1
+354,Xavier Hutchinson,771,64,HTX,6,205,2023,Iowa State,2020,Iowa State,12,64,771,12.0,4,64.3,WR,JR,xavier-hutchinson-1
+355,Calvin Ridley,769,72,ATL,1,26,2018,Alabama,2016,Alabama,15,72,769,10.7,7,51.3,WR,SO,calvin-ridley-1
+356,Taywan Taylor,767,45,OTI,3,72,2017,Western Kentucky,2014,Western Kentucky,13,45,767,17.0,7,59.0,WR,SO,taywan-taylor-1
+357,Marcell Ateman,766,45,RAI,7,228,2018,Oklahoma State,2015,Oklahoma State,13,45,766,17.0,5,58.9,WR,JR,marcell-ateman-1
+358,Collin Johnson,765,54,JAX,5,165,2020,Texas,2017,Texas,13,54,765,14.2,2,58.8,WR,SO,collin-johnson-2
+359,Jehu Chesson,764,50,KAN,4,139,2017,Michigan,2015,Michigan,13,50,764,15.3,9,58.8,WR,SR,jehu-chesson-1
+360,Laviska Shenault Jr.,764,56,JAX,2,42,2020,Colorado,2019,Colorado,11,56,764,13.6,4,69.5,WR,JR,laviska-shenault-jr-1
+361,Dezmon Patmon,762,58,CLT,6,212,2020,Washington State,2019,Washington State,13,58,762,13.1,8,58.6,WR,SR,dezmon-patmon-1
+362,Ladd McConkey,762,58,SDG,2,34,2024,Georgia,2022,Georgia,15,58,762,13.1,7,50.8,WR,SO,ladd-mcconkey-1
+363,Ryan Switzer,762,61,DAL,4,133,2017,North Carolina,2014,North Carolina,13,61,762,12.5,4,58.6,WR,SO,ryan-switzer-1
+364,Dante Pettis,761,63,SFO,2,44,2018,Washington,2017,Washington,13,63,761,12.1,7,58.5,WR,SR,dante-pettis-1
+365,Diontae Johnson,761,49,PIT,3,66,2019,Toledo,2018,Toledo,13,49,761,15.5,8,58.5,WR,JR,diontae-johnson-1
+366,Seth Williams,760,47,DEN,6,219,2021,Auburn,2020,Auburn,11,47,760,16.2,4,69.1,WR,JR,seth-williams-1
+367,Xavier Worthy,760,60,KAN,1,28,2024,Texas,2022,Texas,13,60,760,12.7,9,58.5,WR,SO,xavier-worthy-1
+368,Michael Pittman Jr.,758,41,CLT,2,34,2020,USC,2018,USC,11,41,758,18.5,6,68.9,WR,JR,michael-pittman-jr-1
+369,Ronnie Bell,758,48,SFO,7,253,2023,Michigan,2019,Michigan,13,48,758,15.8,1,58.3,WR,SO,ronnie-bell-3
+370,Stacy Coley,754,63,MIN,7,219,2017,Miami (FL),2016,Miami (FL),13,63,754,12.0,9,58.0,WR,SR,stacy-coley-1
+371,Kolby Listenbee,753,41,BUF,6,192,2016,Texas Christian,2014,Texas Christian,13,41,753,18.4,4,57.9,WR,JR,kolby-listenbee-1
+372,Quincy Enunwa,753,51,NYJ,6,209,2014,Nebraska,2013,Nebraska,12,51,753,14.8,12,62.8,WR,SR,quincy-enunwa-1
+373,Da'Ron Brown,752,46,KAN,7,233,2015,Northern Illinois,2013,Northern Illinois,12,46,752,16.3,9,62.7,WR,JR,daron-brown-1
+374,Erik Ezukanma,748,46,MIA,4,125,2022,Texas Tech,2020,Texas Tech,10,46,748,16.3,6,74.8,WR,SO,erik-ezukanma-1
+375,Henry Ruggs III,746,40,RAI,1,12,2020,Alabama,2019,Alabama,12,40,746,18.7,7,62.2,WR,JR,henry-ruggs-iii-1
+376,Zay Flowers,746,44,RAV,1,22,2023,Boston College,2021,Boston College,12,44,746,17.0,5,62.2,WR,JR,zay-flowers-1
+377,Lynn Bowden Jr.,745,67,RAI,3,80,2020,Kentucky,2018,Kentucky,13,67,745,11.1,5,57.3,WR,SO,lynn-bowden-jr-1
+378,Mack Hollins,745,30,PHI,4,118,2017,North Carolina,2015,North Carolina,14,30,745,24.8,8,53.2,WR,JR,mack-hollins-1
+379,Dede Westbrook,743,46,JAX,4,110,2017,Oklahoma,2015,Oklahoma,13,46,743,16.2,4,57.2,WR,JR,dede-westbrook-1
+380,Henry Ruggs III,741,46,RAI,1,12,2020,Alabama,2018,Alabama,15,46,741,16.1,11,49.4,WR,SO,henry-ruggs-iii-1
+381,Sammie Coates,741,34,PIT,3,87,2015,Auburn,2014,Auburn,12,34,741,21.8,4,61.8,WR,JR,sammie-coates-1
+382,Kyle Philips,739,59,OTI,5,163,2022,UCLA,2021,UCLA,11,59,739,12.5,10,67.2,WR,JR,kyle-philips-4
+383,Jaelon Darden,736,76,TAM,4,129,2021,North Texas,2019,North Texas,12,76,736,9.7,12,61.3,WR,JR,jaelon-darden-1
+384,Antonio Gibson,735,38,WAS,3,66,2020,Memphis,2019,Memphis,14,38,735,19.3,8,52.5,WR,SR,antonio-gibson-2
+385,Deon Cain,734,58,CLT,6,185,2018,Clemson,2017,Clemson,14,58,734,12.7,6,52.4,WR,JR,deon-cain-1
+386,Devin Funchess,733,62,CAR,2,41,2015,Michigan,2014,Michigan,11,62,733,11.8,4,66.6,WR,JR,devin-funchess-1
+387,Robert Davis,732,50,WAS,6,209,2017,Georgia State,2014,Georgia State,12,50,732,14.6,2,61.0,WR,SO,robert-davis-10
+388,Terrace Marshall Jr.,731,48,CAR,2,59,2021,LSU,2020,LSU,7,48,731,15.2,10,104.4,WR,JR,terrace-marshall-jr-1
+389,Chris Olave,729,50,NOR,1,11,2022,Ohio State,2020,Ohio State,7,50,729,14.6,7,104.1,WR,JR,chris-olave-1
+390,Jalen Saunders,729,61,NYJ,4,104,2014,Oklahoma,2013,Oklahoma,13,61,729,12.0,8,56.1,WR,SR,jalen-saunders-1
+391,Nico Collins,729,37,HTX,3,89,2021,Michigan,2019,Michigan,12,37,729,19.7,7,60.8,WR,JR,nico-collins-1
+392,Amara Darboh,727,58,SEA,3,106,2017,Michigan,2015,Michigan,13,58,727,12.5,5,55.9,WR,SR,amara-darboh-1
+393,Deon Cain,724,38,CLT,6,185,2018,Clemson,2016,Clemson,15,38,724,19.1,9,48.3,WR,SO,deon-cain-1
+394,Garrett Wilson,723,43,NYJ,1,10,2022,Ohio State,2020,Ohio State,8,43,723,16.8,6,90.4,WR,SO,garrett-wilson-2
+395,Luke McCaffrey,723,58,WAS,3,100,2024,Rice,2022,Rice,11,58,723,12.5,6,65.7,WR,SO,luke-mccaffrey-1
+396,Ihmir Smith-Marsette,722,44,MIN,5,157,2021,Iowa,2019,Iowa,13,44,722,16.4,5,55.5,WR,JR,ihmir-smith-marsette-1
+397,Scott Miller,722,63,TAM,6,208,2019,Bowling Green,2017,Bowling Green,12,63,722,11.5,4,60.2,WR,JR,scott-miller-3
+398,Antonio Callaway,721,54,CLE,4,105,2018,Florida,2016,Florida,12,54,721,13.4,3,60.1,WR,SO,antonio-callaway-1
+399,Bub Means,721,41,NOR,5,170,2024,Pitt,2023,Pitt,12,41,721,17.6,6,60.1,WR,SR,bub-means-1
+400,Javon Wims,720,45,CHI,7,224,2018,Georgia,2017,Georgia,15,45,720,16.0,7,48.0,WR,SR,javon-wims-1
+401,Khalil Shakir,719,52,BUF,5,148,2022,Boise State,2020,Boise State,7,52,719,13.8,6,102.7,WR,JR,khalil-shakir-1
+402,Anthony Gould,718,44,CLT,5,142,2024,Oregon State,2023,Oregon State,11,44,718,16.3,2,65.3,WR,JR,anthony-gould-1
+403,Charone Peake,716,50,NYJ,7,241,2016,Clemson,2015,Clemson,15,50,716,14.3,5,47.7,WR,SR,charone-peake-1
+404,Ricardo Louis,716,46,CLE,4,114,2016,Auburn,2015,Auburn,13,46,716,15.6,3,55.1,WR,SR,ricardo-louis-1
+405,Deandre Smelter,715,35,SFO,4,132,2015,Georgia Tech,2014,Georgia Tech,12,35,715,20.4,7,59.6,WR,SR,deandre-smelter-1
+406,Darnell Mooney,713,48,CHI,5,173,2020,Tulane,2019,Tulane,13,48,713,14.9,5,54.8,WR,SR,darnell-mooney-1
+407,Shaquelle Evans,709,47,NYJ,4,115,2014,UCLA,2013,UCLA,13,47,709,15.1,9,54.5,WR,SR,shaquelle-evans-1
+408,Erik Ezukanma,705,48,MIA,4,125,2022,Texas Tech,2021,Texas Tech,11,48,705,14.7,4,64.1,WR,JR,erik-ezukanma-1
+409,Marvin Mims,705,32,DEN,2,63,2023,Oklahoma,2021,Oklahoma,13,32,705,22.0,5,54.2,WR,SO,marvin-mims-1
+410,Elijah Higgins,704,59,MIA,6,197,2023,Stanford,2022,Stanford,12,59,704,11.9,2,58.7,WR,SR,elijah-higgins-1
+411,Kenny Lawler,701,54,SEA,7,243,2016,California,2014,California,11,54,701,13.0,9,63.7,WR,SO,kenny-lawler-1
+412,Terry McLaurin,701,35,WAS,3,76,2019,Ohio State,2018,Ohio State,14,35,701,20.0,11,50.1,WR,SR,terry-mclaurin-1
+413,Ardarius Stewart,700,63,NYJ,3,79,2017,Alabama,2015,Alabama,15,63,700,11.1,4,46.7,WR,SO,ardarius-stewart-1
+414,Deangelo Yancey,700,48,GNB,5,175,2017,Purdue,2015,Purdue,12,48,700,14.6,5,58.3,WR,JR,deangelo-yancey-1
+415,Devontez Walker,699,41,RAV,4,113,2024,North Carolina,2023,North Carolina,8,41,699,17.0,7,87.4,WR,SO,devontez-walker-1
+416,Malachi Dupre,698,43,GNB,7,247,2017,LSU,2015,LSU,12,43,698,16.2,6,58.2,WR,SO,malachi-dupre-1
+417,Hakeem Butler,697,41,CRD,4,103,2019,Iowa State,2017,Iowa State,13,41,697,17.0,7,53.6,WR,SO,hakeem-butler-1
+418,Ryan Switzer,697,55,DAL,4,133,2017,North Carolina,2015,North Carolina,14,55,697,12.7,6,49.8,WR,JR,ryan-switzer-1
+419,Devaughn Vele,695,55,DEN,7,235,2024,Utah,2022,Utah,14,55,695,12.6,5,49.6,WR,SO,devaughn-vele-1
+420,Anthony Miller,694,47,CHI,2,51,2018,Memphis,2015,Memphis,12,47,694,14.8,5,57.8,WR,SO,anthony-miller-6
+421,Damion Ratley,694,30,CLE,6,175,2018,Texas A&M,2017,Texas A&M,13,30,694,23.1,6,53.4,WR,SR,damion-ratley-1
+422,Jalen Nailor,694,37,MIN,6,191,2022,Michigan State,2021,Michigan State,9,37,694,18.8,6,77.1,WR,JR,jalen-nailor-1
+423,Malik Washington,694,65,MIA,6,184,2024,Virginia,2022,Northwestern,12,65,694,10.7,1,57.8,WR,SR,malik-washington-1
+424,DeVonta Smith,693,42,PHI,1,10,2021,Alabama,2018,Alabama,14,42,693,16.5,6,49.5,WR,SO,devonta-smith-1
+425,Stacy Coley,693,48,MIN,7,219,2017,Miami (FL),2015,Miami (FL),11,48,693,14.4,4,63.0,WR,JR,stacy-coley-1
+426,Jacob Cowing,691,41,SFO,4,135,2024,Arizona,2020,UTEP,8,41,691,16.9,3,86.4,WR,SO,jacob-cowing-1
+427,Dazz Newsome,684,54,CHI,6,221,2021,North Carolina,2020,North Carolina,12,54,684,12.7,6,57.0,WR,SR,dazz-newsome-1
+428,Rashee Rice,683,48,KAN,2,55,2023,SMU,2020,SMU,10,48,683,14.2,5,68.3,WR,SO,rashee-rice-1
+429,Kyle Philips,681,60,OTI,5,163,2022,UCLA,2019,UCLA,12,60,681,11.4,5,56.8,WR,SO,kyle-philips-4
+430,Tajae Sharpe,680,61,OTI,5,140,2016,Massachusetts,2013,Massachusetts,12,61,680,11.1,4,56.7,WR,SO,tajae-sharpe-1
+431,Braxton Berrios,679,55,NWE,6,210,2018,Miami (FL),2017,Miami (FL),13,55,679,12.3,9,52.2,WR,SR,braxton-berrios-1
+432,Joe Reed,679,77,SDG,5,151,2020,Virginia,2019,Virginia,13,77,679,8.8,7,52.2,WR,SR,joe-reed-4
+433,Jermaine Burton,677,40,CIN,3,80,2024,Alabama,2022,Alabama,13,40,677,16.9,7,52.1,WR,JR,jermaine-burton-1
+434,Tyler Johnson,677,35,TAM,5,161,2020,Minnesota,2017,Minnesota,10,35,677,19.3,7,67.7,WR,SO,tyler-johnson-6
+435,Dylan Cantrell,675,58,SDG,6,191,2018,Texas Tech,2016,Texas Tech,10,58,675,11.6,8,67.5,WR,JR,dylan-cantrell-1
+436,Chris Moore,673,30,RAV,4,107,2016,Cincinnati,2014,Cincinnati,13,30,673,22.4,8,51.8,WR,JR,chris-moore-4
+437,Shi Smith,673,45,CAR,6,204,2021,South Carolina,2018,South Carolina,12,45,673,15.0,4,56.1,WR,SO,shi-smith-1
+438,Michael Wilson,672,56,CRD,3,94,2023,Stanford,2019,Stanford,12,56,672,12.0,5,56.0,WR,SO,michael-wilson-3
+439,Trevor Davis,672,40,GNB,5,163,2016,California,2015,California,13,40,672,16.8,2,51.7,WR,SR,trevor-davis-1
+440,Terrace Marshall Jr.,671,46,CAR,2,59,2021,LSU,2019,LSU,12,46,671,14.6,13,55.9,WR,SO,terrace-marshall-jr-1
+441,Tre Tucker,671,52,RAI,3,100,2023,Cincinnati,2022,Cincinnati,12,52,671,12.9,3,55.9,WR,SR,tre-tucker-1
+442,Casey Washington,670,49,ATL,6,187,2024,Illinois,2023,Illinois,12,49,670,13.7,4,55.8,WR,SR,casey-washington-1
+443,Darius Slayton,670,35,NYG,5,171,2019,Auburn,2018,Auburn,12,35,670,19.1,5,55.8,WR,JR,darius-slayton-1
+444,Rashee Rice,670,64,KAN,2,55,2023,SMU,2021,SMU,12,64,670,10.5,9,55.8,WR,JR,rashee-rice-1
+445,John Ursua,667,47,SEA,7,236,2019,Hawaii,2017,Hawaii,6,47,667,14.2,5,111.2,WR,SO,john-ursua-1
+446,Ricky Pearsall,661,33,SFO,1,31,2024,Florida,2022,Florida,13,33,661,20.0,5,50.8,WR,SR,ricky-pearsall-1
+447,Devin Smith,660,44,NYJ,2,37,2015,Ohio State,2013,Ohio State,14,44,660,15.0,8,47.1,WR,JR,devin-smith-2
+448,Kawaan Baker,659,51,NOR,7,255,2021,South Alabama,2020,South Alabama,11,51,659,12.9,8,59.9,WR,SR,kawaan-baker-1
+449,Kenny Lawler,658,52,SEA,7,243,2016,California,2015,California,13,52,658,12.7,13,50.6,WR,JR,kenny-lawler-1
+450,Keon Coleman,658,50,BUF,2,33,2024,Florida State,2023,Florida State,12,50,658,13.2,11,54.8,WR,JR,keon-coleman-1
+451,Chris Conley,657,36,KAN,3,76,2015,Georgia,2014,Georgia,13,36,657,18.3,8,50.5,WR,SR,chris-conley-1
+452,Van Jefferson,657,49,RAM,2,57,2020,Florida,2019,Florida,13,49,657,13.4,6,50.5,WR,SR,van-jefferson-1
+453,Alec Pierce,652,37,CLT,2,53,2022,Cincinnati,2019,Cincinnati,14,37,652,17.6,2,46.6,WR,SO,alec-pierce-2
+454,Jordan Whittington,652,50,RAM,6,213,2024,Texas,2022,Texas,13,50,652,13.0,1,50.2,WR,JR,jordan-whittington-2
+455,Chris Conley,651,45,KAN,3,76,2015,Georgia,2013,Georgia,11,45,651,14.5,4,59.2,WR,JR,chris-conley-1
+456,Romeo Doubs,649,44,GNB,4,132,2022,Nevada,2019,Nevada,11,44,649,14.8,4,59.0,WR,SO,romeo-doubs-1
+457,Chris Moore,645,45,RAV,4,107,2016,Cincinnati,2013,Cincinnati,13,45,645,14.3,9,49.6,WR,SO,chris-moore-4
+458,Ben Skowronek,644,45,RAM,7,249,2021,Notre Dame,2017,Northwestern,13,45,644,14.3,5,49.5,WR,SO,ben-skowronek-1
+459,Cody Core,644,37,CIN,6,199,2016,Ole Miss,2015,Ole Miss,13,37,644,17.4,4,49.5,WR,SR,cody-core-1
+460,Darius Slayton,643,29,NYG,5,171,2019,Auburn,2017,Auburn,13,29,643,22.2,5,49.5,WR,SO,darius-slayton-1
+461,Chase Claypool,639,50,PIT,2,49,2020,Notre Dame,2018,Notre Dame,13,50,639,12.8,4,49.2,WR,JR,chase-claypool-1
+462,Terry Godwin,639,38,CAR,7,237,2019,Georgia,2017,Georgia,15,38,639,16.8,6,42.6,WR,JR,terry-godwin-1
+463,Bo Melton,638,47,SEA,7,229,2022,Rutgers,2020,Rutgers,9,47,638,13.6,6,70.9,WR,SR,bo-melton-1
+464,D.J. Moore,637,41,CAR,1,24,2018,Maryland,2016,Maryland,13,41,637,15.5,6,49.0,WR,SO,dj-moore-3
+465,Anthony Schwartz,636,54,CLE,3,91,2021,Auburn,2020,Auburn,10,54,636,11.8,3,63.6,WR,JR,anthony-schwartz-1
+466,Jayden Reed,636,55,GNB,2,50,2023,Michigan State,2022,Michigan State,11,55,636,11.6,5,57.8,WR,SR,jayden-reed-1
+467,K.J. Hill,636,57,SDG,7,220,2020,Ohio State,2019,Ohio State,14,57,636,11.2,10,45.4,WR,SR,kj-hill-1
+468,Dez Fitzpatrick,635,35,OTI,4,109,2021,Louisville,2019,Louisville,13,35,635,18.1,6,48.8,WR,JR,dez-fitzpatrick-1
+469,Quentin Johnston,634,33,SDG,1,21,2023,Texas Christian,2021,Texas Christian,9,33,634,19.2,6,70.4,WR,SO,quentin-johnston-1
+470,Isaiah McKenzie,633,44,DEN,5,172,2017,Georgia,2016,Georgia,13,44,633,14.4,7,48.7,WR,JR,isaiah-mckenzie-1
+471,Shi Smith,633,57,CAR,6,204,2021,South Carolina,2020,South Carolina,9,57,633,11.1,4,70.3,WR,SR,shi-smith-1
+472,Laquon Treadwell,632,48,MIN,1,23,2016,Ole Miss,2014,Ole Miss,9,48,632,13.2,5,70.2,WR,SO,laquon-treadwell-1
+473,Nico Collins,632,38,HTX,3,89,2021,Michigan,2018,Michigan,13,38,632,16.6,6,48.6,WR,SO,nico-collins-1
+474,Chatarius Atwell,625,46,RAM,2,57,2021,Louisville,2020,Louisville,9,46,625,13.6,7,69.4,WR,JR,chatarius-atwell-1
+475,David Bell,625,53,CLE,3,99,2022,Purdue,2020,Purdue,6,53,625,11.8,8,104.2,WR,SO,david-bell-6
+476,Puka Nacua,625,48,RAM,5,177,2023,BYU,2022,BYU,9,48,625,13.0,5,69.4,WR,JR,puka-nacua-1
+477,Cornelius Johnson,620,39,SDG,7,253,2024,Michigan,2021,Michigan,14,39,620,15.9,3,44.3,WR,JR,cornelius-johnson-1
+478,Jordan Lasley,620,41,RAV,5,162,2018,UCLA,2016,UCLA,11,41,620,15.1,5,56.4,WR,SO,jordan-lasley-1
+479,Bo Melton,618,55,SEA,7,229,2022,Rutgers,2021,Rutgers,11,55,618,11.2,3,56.2,WR,SR,bo-melton-1
+480,Johnny Wilson,617,41,PHI,6,185,2024,Florida State,2023,Florida State,10,41,617,15.0,2,61.7,WR,JR,johnny-wilson-3
+481,Frank Darby,616,31,ATL,6,187,2021,Arizona State,2019,Arizona State,13,31,616,19.9,8,47.4,WR,JR,frank-darby-1
+482,Mack Hollins,613,35,PHI,4,118,2017,North Carolina,2014,North Carolina,13,35,613,17.5,8,47.2,WR,SO,mack-hollins-1
+483,Olabisi Johnson,613,28,MIN,7,247,2019,Colorado State,2016,Colorado State,13,28,613,21.9,4,47.2,WR,SO,olabisi-johnson-1
+484,Tony Lippett,613,44,MIA,5,156,2015,Michigan State,2013,Michigan State,12,44,613,13.9,2,51.1,WR,JR,tony-lippett-1
+485,Antoine Green,612,31,DET,7,219,2023,North Carolina,2021,North Carolina,13,31,612,19.7,5,47.1,WR,SR,antoine-green-1
+486,Donovan Peoples-Jones,612,47,CLE,6,187,2020,Michigan,2018,Michigan,13,47,612,13.0,8,47.1,WR,SO,donovan-peoples-jones-1
+487,Brenden Rice,611,39,SDG,7,225,2024,USC,2022,USC,14,39,611,15.7,4,43.6,WR,JR,brenden-rice-1
+488,Jalen Reagor,611,43,PHI,1,21,2020,Texas Christian,2019,Texas Christian,12,43,611,14.2,5,50.9,WR,JR,jalen-reagor-1
+489,Parker Washington,611,46,JAX,6,185,2023,Penn State,2022,Penn State,10,46,611,13.3,2,61.1,WR,SO,parker-washington-1
+490,Richard Rodgers,608,39,GNB,3,98,2014,California,2013,California,11,39,608,15.6,1,55.3,WR,SO,richard-rodgers-1
+491,Cornelius Johnson,604,47,SDG,7,253,2024,Michigan,2023,Michigan,15,47,604,12.9,1,40.3,WR,SR,cornelius-johnson-1
+492,Ty Montgomery,604,61,GNB,3,94,2015,Stanford,2014,Stanford,11,61,604,9.9,3,54.9,WR,SR,ty-montgomery-1
+493,Sterling Shepard,603,51,NYG,2,40,2016,Oklahoma,2013,Oklahoma,12,51,603,11.8,7,50.3,WR,SO,sterling-shepard-1
+494,Hunter Renfrow,602,60,RAI,5,149,2019,Clemson,2017,Clemson,14,60,602,10.0,3,43.0,WR,JR,hunter-renfrow-1
+495,Tahj Washington,602,54,MIA,7,241,2024,USC,2021,USC,12,54,602,11.1,1,50.2,WR,SO,tahj-washington-1
+496,Darnell Mooney,599,34,CHI,5,173,2020,Tulane,2017,Tulane,12,34,599,17.6,4,49.9,WR,SO,darnell-mooney-1
+497,Austin Proehl,597,43,BUF,7,255,2018,North Carolina,2016,North Carolina,13,43,597,13.9,3,45.9,WR,JR,austin-proehl-1
+498,Kolby Listenbee,597,30,BUF,6,192,2016,Texas Christian,2015,Texas Christian,11,30,597,19.9,5,54.3,WR,SR,kolby-listenbee-1
+499,Olabisi Johnson,595,41,MIN,7,247,2019,Colorado State,2017,Colorado State,12,41,595,14.5,2,49.6,WR,JR,olabisi-johnson-1
+500,Demetric Felton,594,55,CLE,6,211,2021,UCLA,2019,UCLA,12,55,594,10.8,4,49.5,WR,JR,demetric-felton-1
+501,Devaughn Vele,593,43,DEN,7,235,2024,Utah,2023,Utah,10,43,593,13.8,3,59.3,WR,JR,devaughn-vele-1
+502,Malachi Dupre,593,41,GNB,7,247,2017,LSU,2016,LSU,12,41,593,14.5,3,49.4,WR,JR,malachi-dupre-1
+503,Michael Thomas,592,41,RAM,6,206,2016,Southern Mississippi,2014,Southern Mississippi,12,41,592,14.4,5,49.3,WR,JR,michael-thomas-6
+504,Jaylen Waddle,591,28,MIA,1,6,2021,Alabama,2020,Alabama,6,28,591,21.1,4,98.5,WR,JR,jaylen-waddle-1
+505,Stefon Diggs,587,34,MIN,5,146,2015,Maryland,2013,Maryland,7,34,587,17.3,3,83.9,WR,SO,stefon-diggs-1
+506,Parris Campbell,584,40,CLT,2,59,2019,Ohio State,2017,Ohio State,13,40,584,14.6,3,44.9,WR,JR,parris-campbell-1
+507,DaeSean Hamilton,580,45,DEN,4,113,2018,Penn State,2015,Penn State,13,45,580,12.9,6,44.6,WR,SO,daesean-hamilton-1
+508,Jauan Jennings,580,40,SFO,7,217,2020,Tennessee,2016,Tennessee,13,40,580,14.5,7,44.6,WR,SO,jauan-jennings-1
+509,Ricky Pearsall,580,48,SFO,1,31,2024,Florida,2021,Arizona State,13,48,580,12.1,4,44.6,WR,JR,ricky-pearsall-1
+510,Malik Washington,578,44,MIA,6,184,2024,Virginia,2021,Northwestern,12,44,578,13.1,2,48.2,WR,JR,malik-washington-1
+511,Justin Shorter,577,29,BUF,5,150,2023,Florida,2022,Florida,9,29,577,19.9,2,64.1,WR,SR,justin-shorter-1
+512,Kenny Bell,577,52,TAM,5,162,2015,Nebraska,2013,Nebraska,13,52,577,11.1,4,44.4,WR,JR,kenny-bell-2
+513,Amari Rodgers,575,55,GNB,3,85,2021,Clemson,2018,Clemson,15,55,575,10.5,4,38.3,WR,SO,amari-rodgers-1
+514,Jaelon Darden,575,48,TAM,4,129,2021,North Texas,2018,North Texas,13,48,575,12.0,4,44.2,WR,SO,jaelon-darden-1
+515,Kawaan Baker,574,35,NOR,7,255,2021,South Alabama,2019,South Alabama,12,35,574,16.4,3,47.8,WR,JR,kawaan-baker-1
+516,Simi Fehoko,574,37,DAL,5,179,2021,Stanford,2020,Stanford,6,37,574,15.5,3,95.7,WR,JR,simi-fehoko-1
+517,Riley Ridley,570,44,CHI,4,126,2019,Georgia,2018,Georgia,14,44,570,13.0,9,40.7,WR,JR,riley-ridley-1
+518,D.K. Metcalf,569,26,SEA,2,64,2019,Ole Miss,2018,Ole Miss,7,26,569,21.9,5,81.3,WR,SO,dk-metcalf-1
+519,Simi Fehoko,566,24,DAL,5,179,2021,Stanford,2019,Stanford,12,24,566,23.6,6,47.2,WR,SO,simi-fehoko-1
+520,Ben Skowronek,562,45,RAM,7,249,2021,Notre Dame,2018,Northwestern,14,45,562,12.5,3,40.1,WR,JR,ben-skowronek-1
+521,Tre Nixon,562,40,NWE,7,242,2021,UCF,2018,UCF,13,40,562,14.1,4,43.2,WR,SO,tre-nixon-1
+522,Jaylen Waddle,560,33,MIA,1,6,2021,Alabama,2019,Alabama,13,33,560,17.0,6,43.1,WR,SO,jaylen-waddle-1
+523,Collin Johnson,559,38,JAX,5,165,2020,Texas,2019,Texas,7,38,559,14.7,3,79.9,WR,SR,collin-johnson-2
+524,Jalen McMillan,559,45,TAM,3,92,2024,Washington,2023,Washington,11,45,559,12.4,5,50.8,WR,JR,jalen-mcmillan-1
+525,Cody Core,558,41,CIN,6,199,2016,Ole Miss,2014,Ole Miss,13,41,558,13.6,6,42.9,WR,JR,cody-core-1
+526,Jha'Quan Jackson,554,33,OTI,6,182,2024,Tulane,2022,Tulane,14,33,554,16.8,3,39.6,WR,JR,jhaquan-jackson-1
+527,Mario Alford,552,27,CIN,7,238,2015,West Virginia,2013,West Virginia,9,27,552,20.4,2,61.3,WR,JR,mario-alford-1
+528,Justin Shorter,550,41,BUF,5,150,2023,Florida,2021,Florida,13,41,550,13.4,3,42.3,WR,JR,justin-shorter-1
+529,K.J. Hill,549,56,SDG,7,220,2020,Ohio State,2017,Ohio State,14,56,549,9.8,3,39.2,WR,SO,kj-hill-1
+530,Auden Tate,548,40,CIN,7,253,2018,Florida State,2017,Florida State,12,40,548,13.7,10,45.7,WR,JR,auden-tate-1
+531,K.J. Osborn,547,50,MIN,5,176,2020,Miami (FL),2019,Miami (FL),13,50,547,10.9,5,42.1,WR,SR,kj-osborn-1
+532,Devin Duvernay,546,41,RAV,3,92,2020,Texas,2018,Texas,14,41,546,13.3,4,39.0,WR,JR,devin-duvernay-1
+533,Hunter Renfrow,544,49,RAI,5,149,2019,Clemson,2018,Clemson,15,49,544,11.1,1,36.3,WR,SR,hunter-renfrow-1
+534,Thomas Duarte,540,28,MIA,7,231,2016,UCLA,2014,UCLA,12,28,540,19.3,4,45.0,WR,SO,thomas-duarte-1
+535,Jacob Harris,539,30,RAM,4,141,2021,UCF,2020,UCF,10,30,539,18.0,8,53.9,WR,SR,jacob-harris-2
+536,Vince Mayle,539,42,CLE,4,123,2015,Washington State,2013,Washington State,11,42,539,12.8,7,49.0,WR,SR,vince-mayle-1
+537,Kayshon Boutte,538,48,NWE,6,187,2023,LSU,2022,LSU,11,48,538,11.2,2,48.9,WR,JR,kayshon-boutte-1
+538,Mecole Hardman,532,34,KAN,2,56,2019,Georgia,2018,Georgia,14,34,532,15.6,7,38.0,WR,JR,mecole-hardman-1
+539,Derius Davis,531,42,SDG,4,125,2023,Texas Christian,2022,Texas Christian,14,42,531,12.6,5,37.9,WR,SR,derius-davis-1
+540,Kaelin Clay,523,43,TAM,6,184,2015,Utah,2014,Utah,13,43,523,12.2,4,40.2,WR,SR,kaelin-clay-1
+541,Demarcus Robinson,522,48,KAN,4,126,2016,Florida,2015,Florida,13,48,522,10.9,2,40.2,WR,JR,demarcus-robinson-3
+542,Geremy Davis,521,44,NYG,6,186,2015,Connecticut,2014,Connecticut,11,44,521,11.8,3,47.4,WR,SR,geremy-davis-1
+543,Jalen Tolbert,521,27,DAL,3,88,2022,South Alabama,2019,South Alabama,12,27,521,19.3,6,43.4,WR,SO,jalen-tolbert-1
+544,Tyler Scott,520,30,CHI,4,133,2023,Cincinnati,2021,Cincinnati,14,30,520,17.3,5,37.1,WR,SO,tyler-scott-3
+545,Derius Davis,518,36,SDG,4,125,2023,Texas Christian,2021,Texas Christian,12,36,518,14.4,1,43.2,WR,SR,derius-davis-1
+546,Dillon Mitchell,517,42,MIN,7,239,2019,Oregon,2017,Oregon,12,42,517,12.3,4,43.1,WR,SO,dillon-mitchell-1
+547,Freddie Swain,517,38,SEA,6,214,2020,Florida,2019,Florida,12,38,517,13.6,7,43.1,WR,SR,freddie-swain-1
+548,C.J. Prosise,516,29,SEA,3,90,2016,Notre Dame,2014,Notre Dame,13,29,516,17.8,2,39.7,WR,JR,cj-prosise-1
+549,Equanimeous St. Brown,515,33,GNB,6,207,2018,Notre Dame,2017,Notre Dame,13,33,515,15.6,4,39.6,WR,JR,equanimeous-st-brown-1
+550,Jalen Nailor,515,26,MIN,6,191,2022,Michigan State,2020,Michigan State,7,26,515,19.8,4,73.6,WR,SO,jalen-nailor-1
+551,George Pickens,513,36,PIT,2,52,2022,Georgia,2020,Georgia,8,36,513,14.3,6,64.1,WR,SO,george-pickens-1
+552,Ainias Smith,509,47,PHI,5,152,2024,Texas A&M,2021,Texas A&M,12,47,509,10.8,6,42.4,WR,JR,ainias-smith-1
+553,Kayshon Boutte,508,38,NWE,6,187,2023,LSU,2021,LSU,6,38,508,13.4,9,84.7,WR,SO,kayshon-boutte-1
+554,Kevin White,507,35,CHI,1,7,2015,West Virginia,2013,West Virginia,10,35,507,14.5,5,50.7,WR,JR,kevin-white-6
+555,DaeSean Hamilton,506,34,DEN,4,113,2018,Penn State,2016,Penn State,14,34,506,14.9,1,36.1,WR,JR,daesean-hamilton-1
+556,Dazz Newsome,506,44,CHI,6,221,2021,North Carolina,2018,North Carolina,11,44,506,11.5,2,46.0,WR,SO,dazz-newsome-1
+557,D'Wayne Eskridge,506,30,SEA,2,56,2021,Western Michigan,2017,Western Michigan,12,30,506,16.9,3,42.2,WR,SO,dwayne-eskridge-1
+558,Jordan Whittington,505,42,RAM,6,213,2024,Texas,2023,Texas,14,42,505,12.0,1,36.1,WR,SR,jordan-whittington-2
+559,Jalen Brooks,504,33,DAL,7,244,2023,South Carolina,2022,South Carolina,12,33,504,15.3,1,42.0,WR,SR,jalen-brooks-2
+560,John Hightower,504,31,PHI,5,168,2020,Boise State,2018,Boise State,10,31,504,16.3,6,50.4,WR,JR,john-hightower-1
+561,Ray-Ray McCloud,503,49,BUF,6,187,2018,Clemson,2017,Clemson,14,49,503,10.3,1,35.9,WR,JR,ray-ray-mccloud-1
+562,Van Jefferson,503,35,RAM,2,57,2020,Florida,2018,Florida,13,35,503,14.4,6,38.7,WR,JR,van-jefferson-1
+563,Drake London,502,33,ATL,1,8,2022,USC,2020,USC,6,33,502,15.2,3,83.7,WR,SO,drake-london-1
+564,Quintez Cephus,501,30,DET,5,166,2020,Wisconsin,2017,Wisconsin,10,30,501,16.7,6,50.1,WR,SO,quintez-cephus-1
+565,Elijah Higgins,500,45,MIA,6,197,2023,Stanford,2021,Stanford,10,45,500,11.1,4,50.0,WR,JR,elijah-higgins-1
+566,Jehu Chesson,500,35,KAN,4,139,2017,Michigan,2016,Michigan,13,35,500,14.3,2,38.5,WR,SR,jehu-chesson-1
+567,Cornelius Johnson,499,32,SDG,7,253,2024,Michigan,2022,Michigan,14,32,499,15.6,6,35.6,WR,SR,cornelius-johnson-1
+568,Jermaine Burton,497,26,CIN,3,80,2024,Alabama,2021,Georgia,14,26,497,19.1,4,35.5,WR,SO,jermaine-burton-1
+569,Hunter Renfrow,495,44,RAI,5,149,2019,Clemson,2016,Clemson,11,44,495,11.3,6,45.0,WR,SO,hunter-renfrow-1
+570,Keith Mumphery,495,26,HTX,5,175,2015,Michigan State,2014,Michigan State,13,26,495,19.0,3,38.1,WR,SR,keith-mumphery-1
+571,Kawaan Baker,494,33,NOR,7,255,2021,South Alabama,2018,South Alabama,12,33,494,15.0,4,41.2,WR,SO,kawaan-baker-1
+572,K.J. Osborn,493,35,MIN,5,176,2020,Miami (FL),2017,Buffalo,12,35,493,14.1,4,41.1,WR,SO,kj-osborn-1
+573,Mark Andrews,489,31,RAV,3,86,2018,Oklahoma,2016,Oklahoma,13,31,489,15.8,7,37.6,WR,SO,mark-andrews-1
+574,Shi Smith,489,43,CAR,6,204,2021,South Carolina,2019,South Carolina,10,43,489,11.4,2,48.9,WR,JR,shi-smith-1
+575,Jahan Dotson,488,27,WAS,1,16,2022,Penn State,2019,Penn State,13,27,488,18.1,5,37.5,WR,SO,jahan-dotson-1
+576,Josh Palmer,484,23,SDG,3,77,2021,Tennessee,2018,Tennessee,12,23,484,21.0,2,40.3,WR,SO,josh-palmer-1
+577,Tejhaun Palmer,479,30,CRD,6,191,2024,UAB,2022,UAB,13,30,479,16.0,2,36.8,WR,JR,tejhaun-palmer-1
+578,Amon-Ra St. Brown,478,41,DET,4,112,2021,USC,2020,USC,6,41,478,11.7,7,79.7,WR,JR,amon-ra-st-brown-1
+579,Ladd McConkey,478,30,SDG,2,34,2024,Georgia,2023,Georgia,9,30,478,15.9,2,53.1,WR,JR,ladd-mcconkey-1
+580,Leonte Carroo,478,28,MIA,3,86,2016,Rutgers,2013,Rutgers,9,28,478,17.1,9,53.1,WR,SO,leonte-carroo-1
+581,Travis Fulgham,478,29,DET,6,184,2019,Old Dominion,2016,Old Dominion,13,29,478,16.5,8,36.8,WR,SO,travis-fulgham-1
+582,Josh Palmer,475,33,SDG,3,77,2021,Tennessee,2020,Tennessee,10,33,475,14.4,4,47.5,WR,SR,josh-palmer-1
+583,Brandon Aiyuk,474,33,SFO,1,25,2020,Arizona State,2018,Arizona State,13,33,474,14.4,3,36.5,WR,JR,brandon-aiyuk-1
+584,Amara Darboh,473,36,SEA,3,106,2017,Michigan,2014,Michigan,12,36,473,13.1,2,39.4,WR,SO,amara-darboh-1
+585,Rashod Bateman,472,36,RAV,1,27,2021,Minnesota,2020,Minnesota,5,36,472,13.1,2,94.4,WR,JR,rashod-bateman-1
+586,Ray-Ray McCloud,472,49,BUF,6,187,2018,Clemson,2016,Clemson,14,49,472,9.6,2,33.7,WR,SO,ray-ray-mccloud-1
+587,Devin Fuller,471,43,ATL,7,238,2016,UCLA,2013,UCLA,12,43,471,11.0,4,39.3,WR,SO,devin-fuller-1
+588,D.J. Chark,466,26,JAX,2,61,2018,LSU,2016,LSU,12,26,466,17.9,3,38.8,WR,JR,dj-chark-1
+589,Joe Reed,465,25,SDG,5,151,2020,Virginia,2018,Virginia,13,25,465,18.6,7,35.8,WR,JR,joe-reed-4
+590,Wan'Dale Robinson,461,51,NYG,2,43,2022,Kentucky,2020,Nebraska,8,51,461,9.0,1,57.6,WR,SO,wandale-robinson-1
+591,Tony Pollard,458,39,DAL,4,128,2019,Memphis,2018,Memphis,14,39,458,11.7,3,32.7,WR,JR,tony-pollard-1
+592,Anthony Gould,457,27,CLT,5,142,2024,Oregon State,2022,Oregon State,10,27,457,16.9,3,45.7,WR,SO,anthony-gould-1
+593,Josh Palmer,457,34,SDG,3,77,2021,Tennessee,2019,Tennessee,13,34,457,13.4,1,35.2,WR,JR,josh-palmer-1
+594,Van Jefferson,456,42,RAM,2,57,2020,Florida,2017,Ole Miss,10,42,456,10.9,1,45.6,WR,SO,van-jefferson-1
+595,Jamari Thrash,452,32,CLE,5,156,2024,Louisville,2021,Georgia State,13,32,452,14.1,3,34.8,WR,SO,jamari-thrash-1
+596,Danny Gray,448,33,SFO,3,105,2022,SMU,2020,SMU,8,33,448,13.6,4,56.0,WR,JR,danny-gray-1
+597,Jacob Harris,448,19,RAM,4,141,2021,UCF,2019,UCF,13,19,448,23.6,1,34.5,WR,SR,jacob-harris-2
+598,Devin Fuller,447,59,ATL,7,238,2016,UCLA,2014,UCLA,13,59,447,7.6,1,34.4,WR,JR,devin-fuller-1
+599,Darren Waller,442,26,RAV,6,204,2015,Georgia Tech,2014,Georgia Tech,12,26,442,17.0,6,36.8,WR,SR,darren-waller-1
+600,Anthony Schwartz,440,41,CLE,3,91,2021,Auburn,2019,Auburn,13,41,440,10.7,1,33.8,WR,SO,anthony-schwartz-1
+601,Jordan Payton,440,38,CLE,5,154,2016,UCLA,2013,UCLA,12,38,440,11.6,1,36.7,WR,SO,jordan-payton-1
+602,Josh Doctson,440,36,WAS,1,22,2016,Texas Christian,2013,Texas Christian,10,36,440,12.2,4,44.0,WR,SO,josh-doctson-1
+603,Ben Skowronek,439,29,RAM,7,249,2021,Notre Dame,2020,Notre Dame,11,29,439,15.1,5,39.9,WR,SR,ben-skowronek-1
+604,Jalen Camp,439,29,JAX,6,209,2021,Georgia Tech,2020,Georgia Tech,10,29,439,15.1,4,43.9,WR,SR,jalen-camp-1
+605,Jha'Quan Jackson,439,26,OTI,6,182,2024,Tulane,2023,Tulane,10,26,439,16.9,4,43.9,WR,SR,jhaquan-jackson-1
+606,Donovan Peoples-Jones,438,34,CLE,6,187,2020,Michigan,2019,Michigan,11,34,438,12.9,6,39.8,WR,JR,donovan-peoples-jones-1
+607,Jauan Jennings,438,30,SFO,7,217,2020,Tennessee,2018,Tennessee,12,30,438,14.6,3,36.5,WR,JR,jauan-jennings-1
+608,Terry McLaurin,436,29,WAS,3,76,2019,Ohio State,2017,Ohio State,14,29,436,15.0,6,31.1,WR,JR,terry-mclaurin-1
+609,Dontayvion Wicks,430,30,GNB,5,159,2023,Virginia,2022,Virginia,8,30,430,14.3,2,53.8,WR,SR,dontayvion-wicks-1
+610,Nathaniel Dell,428,29,HTX,3,69,2023,Houston,2020,Houston,8,29,428,14.8,3,53.5,WR,SO,nathaniel-dell-1
+611,Bo Melton,427,30,SEA,7,229,2022,Rutgers,2019,Rutgers,12,30,427,14.2,2,35.6,WR,JR,bo-melton-1
+612,Amari Rodgers,426,30,GNB,3,85,2021,Clemson,2019,Clemson,14,30,426,14.2,4,30.4,WR,JR,amari-rodgers-1
+613,Tre Tucker,426,34,RAI,3,100,2023,Cincinnati,2021,Cincinnati,14,34,426,12.5,2,30.4,WR,JR,tre-tucker-1
+614,Jha'Quan Jackson,425,31,OTI,6,182,2024,Tulane,2020,Tulane,12,31,425,13.7,8,35.4,WR,SO,jhaquan-jackson-1
+615,Dez Fitzpatrick,422,31,OTI,4,109,2021,Louisville,2018,Louisville,12,31,422,13.6,3,35.2,WR,SO,dez-fitzpatrick-1
+616,Frank Darby,421,21,ATL,6,187,2021,Arizona State,2018,Arizona State,13,21,421,20.0,2,32.4,WR,SO,frank-darby-1
+617,Roman Wilson,420,25,PIT,3,84,2024,Michigan,2021,Michigan,13,25,420,16.8,3,32.3,WR,SO,roman-wilson-1
+618,Mecole Hardman,418,25,KAN,2,56,2019,Georgia,2017,Georgia,15,25,418,16.7,4,27.9,WR,SO,mecole-hardman-1
+619,Michael Wilson,418,26,CRD,3,94,2023,Stanford,2022,Stanford,6,26,418,16.1,4,69.7,WR,SR,michael-wilson-3
+620,Cedric Tillman,417,37,CLE,3,74,2023,Tennessee,2022,Tennessee,6,37,417,11.3,3,69.5,WR,SR,cedric-tillman-1
+621,Marquez Valdes-Scantling,415,22,GNB,5,174,2018,South Florida,2016,South Florida,13,22,415,18.9,5,31.9,WR,JR,marquez-valdes-scantling-1
+622,Dante Pettis,414,30,SFO,2,44,2018,Washington,2015,Washington,13,30,414,13.8,1,31.8,WR,SO,dante-pettis-1
+623,Tyrie Cleveland,410,22,DEN,7,252,2020,Florida,2017,Florida,10,22,410,18.6,2,41.0,WR,SO,tyrie-cleveland-1
+624,Auden Tate,409,25,CIN,7,253,2018,Florida State,2016,Florida State,12,25,409,16.4,6,34.1,WR,SO,auden-tate-1
+625,Jayden Reed,407,33,GNB,2,50,2023,Michigan State,2020,Michigan State,7,33,407,12.3,3,58.1,WR,SO,jayden-reed-1
+626,Josh Malone,405,31,CIN,4,128,2017,Tennessee,2015,Tennessee,13,31,405,13.1,2,31.2,WR,SO,josh-malone-1
+627,Michael Pittman Jr.,404,23,CLT,2,34,2020,USC,2017,USC,11,23,404,17.6,2,36.7,WR,SO,michael-pittman-jr-1
+628,Chase Claypool,402,29,PIT,2,49,2020,Notre Dame,2017,Notre Dame,12,29,402,13.9,2,33.5,WR,SO,chase-claypool-1
+629,Noah Brown,402,32,DAL,7,239,2017,Ohio State,2016,Ohio State,13,32,402,12.6,7,30.9,WR,SO,noah-brown-2
+630,Bub Means,401,27,NOR,5,170,2024,Pitt,2022,Pitt,13,27,401,14.9,2,30.8,WR,SO,bub-means-1
+631,Ronnie Bell,401,26,SFO,7,253,2023,Michigan,2020,Michigan,6,26,401,15.4,1,66.8,WR,JR,ronnie-bell-3
+632,Trevor Davis,399,24,GNB,5,163,2016,California,2014,California,10,24,399,16.6,5,39.9,WR,JR,trevor-davis-1
+633,Terry Godwin,397,38,CAR,7,237,2019,Georgia,2016,Georgia,13,38,397,10.4,0,30.5,WR,SO,terry-godwin-1
+634,Travis Fulgham,394,30,DET,6,184,2019,Old Dominion,2017,Old Dominion,12,30,394,13.1,1,32.8,WR,JR,travis-fulgham-1
+635,Skyy Moore,388,25,KAN,2,54,2022,Western Michigan,2020,Western Michigan,5,25,388,15.5,3,77.6,WR,SO,skyy-moore-1
+636,Rondale Moore,387,29,CRD,2,49,2021,Purdue,2019,Purdue,4,29,387,13.3,2,96.8,WR,SO,rondale-moore-1
+637,Dezmon Patmon,379,35,CLT,6,212,2020,Washington State,2017,Washington State,13,35,379,10.8,0,29.2,WR,SO,dezmon-patmon-1
+638,JJ Arcega-Whiteside,379,24,PHI,2,57,2019,Stanford,2016,Stanford,12,24,379,15.8,5,31.6,WR,SO,jj-arcega-whiteside-1
+639,Jonathan Mingo,379,27,CAR,2,39,2023,Ole Miss,2020,Ole Miss,10,27,379,14.0,3,37.9,WR,SO,jonathan-mingo-1
+640,Jordan Whittington,377,26,RAM,6,213,2024,Texas,2021,Texas,8,26,377,14.5,3,47.1,WR,SO,jordan-whittington-2
+641,Roman Wilson,376,25,PIT,3,84,2024,Michigan,2022,Michigan,12,25,376,15.0,4,31.3,WR,JR,roman-wilson-1
+642,Terry Godwin,373,22,CAR,7,237,2019,Georgia,2018,Georgia,13,22,373,17.0,3,28.7,WR,SR,terry-godwin-1
+643,John Ross,371,17,CIN,1,9,2017,Washington,2014,Washington,13,17,371,21.8,4,28.5,WR,SO,john-ross-1
+644,Kyle Philips,370,38,OTI,5,163,2022,UCLA,2020,UCLA,7,38,370,9.7,2,52.9,WR,SO,kyle-philips-4
+645,Darren Waller,367,17,RAV,6,204,2015,Georgia Tech,2013,Georgia Tech,9,17,367,21.6,3,40.8,WR,SO,darren-waller-1
+646,Stephen Sullivan,363,23,SEA,7,251,2020,LSU,2018,LSU,13,23,363,15.8,2,27.9,WR,JR,stephen-sullivan-1
+647,Brian Thomas Jr.,361,31,JAX,1,23,2024,LSU,2022,LSU,13,31,361,11.6,5,27.8,WR,SO,brian-thomas-jr-1
+648,Bud Sasser,361,26,RAM,6,201,2015,Missouri,2013,Missouri,13,26,361,13.9,1,27.8,WR,JR,bud-sasser-1
+649,Ihmir Smith-Marsette,361,23,MIN,5,157,2021,Iowa,2018,Iowa,12,23,361,15.7,3,30.1,WR,SO,ihmir-smith-marsette-1
+650,Aaron Burbridge,358,29,SFO,6,213,2016,Michigan State,2014,Michigan State,13,29,358,12.3,1,27.5,WR,JR,aaron-burbridge-1
+651,Tyrie Cleveland,351,25,DEN,7,252,2020,Florida,2019,Florida,13,25,351,14.0,1,27.0,WR,SR,tyrie-cleveland-1
+652,J'Mon Moore,350,29,GNB,4,133,2018,Missouri,2015,Missouri,12,29,350,12.1,3,29.2,WR,SO,jmon-moore-2
+653,Lynn Bowden Jr.,348,30,RAI,3,80,2020,Kentucky,2019,Kentucky,13,30,348,11.6,1,26.8,WR,JR,lynn-bowden-jr-1
+654,Jonathan Mingo,346,22,CAR,2,39,2023,Ole Miss,2021,Ole Miss,6,22,346,15.7,3,57.7,WR,JR,jonathan-mingo-1
+655,Deandre Smelter,345,21,SFO,4,132,2015,Georgia Tech,2013,Georgia Tech,12,21,345,16.4,4,28.8,WR,JR,deandre-smelter-1
+656,Ihmir Smith-Marsette,345,25,MIN,5,157,2021,Iowa,2020,Iowa,7,25,345,13.8,3,49.3,WR,SR,ihmir-smith-marsette-1
+657,Marcus Green,344,36,ATL,6,203,2019,Louisiana-Monroe,2016,Louisiana-Monroe,12,36,344,9.6,4,28.7,WR,SO,marcus-green-6
+658,Trey Palmer,344,30,TAM,6,191,2023,Nebraska,2021,LSU,11,30,344,11.5,3,31.3,WR,JR,trey-palmer-1
+659,Braxton Miller,341,26,HTX,3,85,2016,Ohio State,2015,Ohio State,13,26,341,13.1,3,26.2,WR,SR,braxton-miller-1
+660,Devin Lucien,339,19,NWE,7,225,2016,Arizona State,2013,UCLA,11,19,339,17.8,2,30.8,WR,SO,devin-lucien-1
+661,Austin Proehl,337,21,BUF,7,255,2018,North Carolina,2017,North Carolina,6,21,337,16.0,1,56.2,WR,SR,austin-proehl-1
+662,Demarcus Ayers,335,33,PIT,7,229,2016,Houston,2014,Houston,13,33,335,10.2,2,25.8,WR,SO,demarcus-ayers-1
+663,Ricardo Louis,325,28,CLE,4,114,2016,Auburn,2013,Auburn,14,28,325,11.6,2,23.2,WR,SO,ricardo-louis-1
+664,Juwann Winfree,324,28,DEN,6,187,2019,Colorado,2018,Colorado,8,28,324,11.6,2,40.5,WR,SR,juwann-winfree-1
+665,Charlie Jones,323,21,CIN,4,131,2023,Purdue,2021,Iowa,14,21,323,15.4,3,23.1,WR,SR,charlie-jones-7
+666,Rodney Adams,323,23,MIN,5,170,2017,South Florida,2014,South Florida,10,23,323,14.0,2,32.3,WR,SO,rodney-adams-1
+667,Alec Pierce,315,17,CLT,2,53,2022,Cincinnati,2020,Cincinnati,6,17,315,18.5,3,52.5,WR,JR,alec-pierce-2
+668,Calvin Austin III,315,17,PIT,4,138,2022,Memphis,2019,Memphis,13,17,315,18.5,3,24.2,WR,SO,calvin-austin-iii-1
+669,Dylan Cantrell,312,20,SDG,6,191,2018,Texas Tech,2014,Texas Tech,12,20,312,15.6,2,26.0,WR,SO,dylan-cantrell-1
+670,Mike Sainristil,312,22,WAS,2,50,2024,Michigan,2021,Michigan,14,22,312,14.2,2,22.3,WR,JR,mike-sainristil-1
+671,Mack Hollins,309,16,PHI,4,118,2017,North Carolina,2016,North Carolina,7,16,309,19.3,4,44.1,WR,SR,mack-hollins-1
+672,Marquez Stevenson,307,20,BUF,6,203,2021,Houston,2020,Houston,5,20,307,15.4,4,61.4,WR,SR,marquez-stevenson-1
+673,Casey Washington,306,31,ATL,6,187,2024,Illinois,2022,Illinois,13,31,306,9.9,0,23.5,WR,JR,casey-washington-1
+674,Keith Mumphery,299,18,HTX,5,175,2015,Michigan State,2013,Michigan State,12,18,299,16.6,3,24.9,WR,JR,keith-mumphery-1
+675,Dominique Robinson,296,14,CHI,5,174,2022,Miami (OH),2019,Miami (OH),14,14,296,21.1,0,21.1,WR,JR,dominique-robinson-1
+676,Casey Washington,294,21,ATL,6,187,2024,Illinois,2021,Illinois,12,21,294,14.0,0,24.5,WR,SO,casey-washington-1
+677,Jha'Quan Jackson,294,17,OTI,6,182,2024,Tulane,2021,Tulane,12,17,294,17.3,1,24.5,WR,SO,jhaquan-jackson-1
+678,Ainias Smith,291,15,PHI,5,152,2024,Texas A&M,2022,Texas A&M,4,15,291,19.4,2,72.8,WR,SR,ainias-smith-1
+679,Richie James,290,31,SFO,7,240,2018,Middle Tennessee State,2017,Middle Tennessee State,5,31,290,9.4,3,58.0,WR,JR,richie-james-1
+680,Dax Milne,285,21,WAS,7,258,2021,BYU,2019,BYU,13,21,285,13.6,2,21.9,WR,SO,dax-milne-1
+681,Racey McMath,285,17,OTI,6,205,2021,LSU,2019,LSU,14,17,285,16.8,3,20.4,WR,JR,racey-mcmath-1
+682,Russell Gage,285,21,ATL,6,194,2018,LSU,2017,LSU,13,21,285,13.6,3,21.9,WR,SR,russell-gage-1
+683,Jaleel Scott,283,23,RAV,4,132,2018,New Mexico State,2016,New Mexico State,12,23,283,12.3,5,23.6,WR,JR,jaleel-scott-1
+684,Velus Jones Jr.,280,22,CHI,3,71,2022,Tennessee,2020,Tennessee,10,22,280,12.7,3,28.0,WR,SR,velus-jones-jr-1
+685,Phillip Dorsett,272,13,CLT,1,29,2015,Miami (FL),2013,Miami (FL),7,13,272,20.9,2,38.9,WR,JR,phillip-dorsett-1
+686,Rondale Moore,270,35,CRD,2,49,2021,Purdue,2020,Purdue,3,35,270,7.7,0,90.0,WR,SO,rondale-moore-1
+687,Justin Shorter,268,25,BUF,5,150,2023,Florida,2020,Florida,12,25,268,10.7,3,22.3,WR,SO,justin-shorter-1
+688,Marcell Ateman,268,20,RAI,7,228,2018,Oklahoma State,2014,Oklahoma State,12,20,268,13.4,0,22.3,WR,SO,marcell-ateman-1
+689,Velus Jones Jr.,266,24,CHI,3,71,2022,Tennessee,2018,USC,12,24,266,11.1,1,22.2,WR,SO,velus-jones-jr-1
+690,Freddie Swain,265,14,SEA,6,214,2020,Florida,2018,Florida,11,14,265,18.9,5,24.1,WR,JR,freddie-swain-1
+691,Michael Wilson,261,19,CRD,3,94,2023,Stanford,2020,Stanford,4,19,261,13.7,1,65.3,WR,JR,michael-wilson-3
+692,Ricardo Louis,261,21,CLE,4,114,2016,Auburn,2014,Auburn,12,21,261,12.4,3,21.8,WR,JR,ricardo-louis-1
+693,Kadarius Toney,260,25,NYG,1,20,2021,Florida,2018,Florida,12,25,260,10.4,1,21.7,WR,SO,kadarius-toney-1
+694,Tre Nixon,260,19,NWE,7,242,2021,UCF,2020,UCF,4,19,260,13.7,2,65.0,WR,SR,tre-nixon-1
+695,Devin Fuller,259,24,ATL,7,238,2016,UCLA,2015,UCLA,11,24,259,10.8,3,23.5,WR,SR,devin-fuller-1
+696,Marquez Valdes-Scantling,257,22,GNB,5,174,2018,South Florida,2014,North Carolina State,13,22,257,11.7,1,19.8,WR,SO,marquez-valdes-scantling-1
+697,Cornelius Johnson,254,16,SDG,7,253,2024,Michigan,2020,Michigan,6,16,254,15.9,3,42.3,WR,SO,cornelius-johnson-1
+698,Miles Boykin,253,12,RAV,3,93,2019,Notre Dame,2017,Notre Dame,12,12,253,21.1,2,21.1,WR,JR,miles-boykin-1
+699,Deebo Samuel,250,15,SFO,2,36,2019,South Carolina,2017,South Carolina,3,15,250,16.7,3,83.3,WR,JR,deebo-samuel-1
+700,Chad Hansen,249,19,NYJ,4,141,2017,California,2015,California,10,19,249,13.1,1,24.9,WR,SO,chad-hansen-1
+701,Malcolm Mitchell,248,31,NWE,4,112,2016,Georgia,2014,Georgia,9,31,248,8.0,3,27.6,SE,JR,malcolm-mitchell-2
+702,Bo Melton,245,28,SEA,7,229,2022,Rutgers,2018,Rutgers,12,28,245,8.8,0,20.4,WR,SO,bo-melton-1
+703,Joe Reed,244,23,SDG,5,151,2020,Virginia,2017,Virginia,12,23,244,10.6,2,20.3,WR,SO,joe-reed-4
+704,Kylen Granson,241,18,CLT,4,127,2021,SMU,2017,Rice,9,18,241,13.4,0,26.8,WR,SO,kylen-granson-1
+705,Tre Tucker,236,18,RAI,3,100,2023,Cincinnati,2020,Cincinnati,10,18,236,13.1,3,23.6,WR,SO,tre-tucker-1
+706,Jalin Hyatt,226,21,NYG,3,73,2023,Tennessee,2021,Tennessee,13,21,226,10.8,2,17.4,WR,SO,jalin-hyatt-1
+707,Austin Proehl,225,12,BUF,7,255,2018,North Carolina,2015,North Carolina,12,12,225,18.8,1,18.8,WR,SO,austin-proehl-1
+708,Devin Lucien,225,29,NWE,7,225,2016,Arizona State,2014,UCLA,13,29,225,7.8,2,17.3,WR,JR,devin-lucien-1
+709,Stephen Sullivan,219,11,SEA,7,251,2020,LSU,2017,LSU,13,11,219,19.9,1,16.8,WR,SO,stephen-sullivan-1
+710,Riley Ridley,218,14,CHI,4,126,2019,Georgia,2017,Georgia,14,14,218,15.6,2,15.6,WR,SO,riley-ridley-1
+711,Evan Spencer,216,22,WAS,6,187,2015,Ohio State,2013,Ohio State,10,22,216,9.8,3,21.6,WR,JR,evan-spencer-1
+712,Tyrie Cleveland,212,18,DEN,7,252,2020,Florida,2018,Florida,12,18,212,11.8,3,17.7,WR,JR,tyrie-cleveland-1
+713,A.T. Perry,211,15,NOR,6,195,2023,Wake Forest,2020,Wake Forest,7,15,211,14.1,1,30.1,WR,SO,at-perry-1
+714,Derius Davis,209,15,SDG,4,125,2023,Texas Christian,2020,Texas Christian,9,15,209,13.9,1,23.2,WR,JR,derius-davis-1
+715,Demetric Felton,207,20,CLE,6,211,2021,UCLA,2018,UCLA,12,20,207,10.4,1,17.3,WR,SO,demetric-felton-1
+716,Damion Ratley,200,15,CLE,6,175,2018,Texas A&M,2015,Texas A&M,12,15,200,13.3,2,16.7,WR,SO,damion-ratley-1
+717,Racey McMath,195,14,OTI,6,205,2021,LSU,2020,LSU,6,14,195,13.9,1,32.5,WR,SR,racey-mcmath-1
+718,Aaron Burbridge,194,22,SFO,6,213,2016,Michigan State,2013,Michigan State,9,22,194,8.8,0,21.6,WR,SO,aaron-burbridge-1
+719,Kadarius Toney,194,10,NYG,1,20,2021,Florida,2019,Florida,7,10,194,19.4,1,27.7,WR,JR,kadarius-toney-1
+720,Javon Wims,190,17,CHI,7,224,2018,Georgia,2016,Georgia,12,17,190,11.2,1,15.8,WR,JR,javon-wims-1
+721,Jalen Camp,186,11,JAX,6,209,2021,Georgia Tech,2018,Georgia Tech,12,11,186,16.9,0,15.5,WR,JR,jalen-camp-1
+722,Michael Wilson,185,19,CRD,3,94,2023,Stanford,2021,Stanford,4,19,185,9.7,0,46.3,WR,SR,michael-wilson-3
+723,Stacy Coley,184,23,MIN,7,219,2017,Miami (FL),2014,Miami (FL),12,23,184,8.0,0,15.3,WR,SO,stacy-coley-1
+724,Jalen Brooks,181,14,DAL,7,244,2023,South Carolina,2021,South Carolina,6,14,181,12.9,1,30.2,WR,SR,jalen-brooks-2
+725,Braxton Berrios,178,12,NWE,6,210,2018,Miami (FL),2016,Miami (FL),13,12,178,14.8,2,13.7,WR,JR,braxton-berrios-1
+726,Elijah Higgins,176,15,MIA,6,197,2023,Stanford,2020,Stanford,5,15,176,11.7,0,35.2,WR,SO,elijah-higgins-1
+727,Xavier Legette,167,18,CAR,1,32,2024,South Carolina,2022,South Carolina,13,18,167,9.3,3,12.8,WR,SR,xavier-legette-1
+728,Gary Jennings,165,10,SEA,4,120,2019,West Virginia,2016,West Virginia,13,10,165,16.5,2,12.7,WR,SO,gary-jennings-1
+729,Isaiah Johnson,165,15,RAI,4,129,2019,Houston,2016,Houston,11,15,165,11.0,0,15.0,WR,SO,isaiah-johnson-4
+730,Tyquan Thornton,158,16,NWE,2,50,2022,Baylor,2020,Baylor,6,16,158,9.9,1,26.3,WR,JR,tyquan-thornton-1
+731,Dominique Robinson,156,13,CHI,5,174,2022,Miami (OH),2018,Miami (OH),12,13,156,12.0,4,13.0,WR,SO,dominique-robinson-1
+732,Tyler Davis,156,14,JAX,6,206,2020,Georgia Tech,2017,Connecticut,11,14,156,11.1,0,14.2,WR,SO,tyler-davis-2
+733,C.J. Uzomah,154,11,CIN,5,157,2015,Auburn,2013,Auburn,6,11,154,14.0,3,25.7,WR,JR,cj-uzomah-1
+734,Jehu Chesson,154,14,KAN,4,139,2017,Michigan,2014,Michigan,11,14,154,11.0,0,14.0,WR,SO,jehu-chesson-1
+735,Tyrone Tracy Jr.,154,14,NYG,5,166,2024,Purdue,2020,Iowa,8,14,154,11.0,1,19.3,WR,SO,tyrone-tracy-jr-1
+736,Jordan Akins,152,14,HTX,3,98,2018,UCF,2015,UCF,3,14,152,10.9,2,50.7,WR,SO,jordan-akins-1
+737,Derius Davis,151,11,SDG,4,125,2023,Texas Christian,2019,Texas Christian,12,11,151,13.7,0,12.6,WR,SO,derius-davis-1
+738,Evan Spencer,149,15,WAS,6,187,2015,Ohio State,2014,Ohio State,15,15,149,9.9,3,9.9,WR,SR,evan-spencer-1
+739,Deangelo Yancey,147,12,GNB,5,175,2017,Purdue,2014,Purdue,12,12,147,12.3,3,12.3,WR,SO,deangelo-yancey-1
+740,Ben Skowronek,141,12,RAM,7,249,2021,Notre Dame,2019,Northwestern,3,12,141,11.8,0,47.0,WR,SR,ben-skowronek-1
+741,Justin Shorter,137,12,BUF,5,150,2023,Florida,2019,Penn State,10,12,137,11.4,0,13.7,WR,SO,justin-shorter-1
+742,Charone Peake,129,12,NYJ,7,241,2016,Clemson,2014,Clemson,7,12,129,10.8,2,18.4,WR,JR,charone-peake-1
+743,Isaiah McKenzie,123,10,DEN,5,172,2017,Georgia,2015,Georgia,10,10,123,12.3,0,12.3,WR,SO,isaiah-mckenzie-1
+744,Cornell Powell,122,15,KAN,5,181,2021,Clemson,2019,Clemson,15,15,122,8.1,2,8.1,WR,JR,cornell-powell-1
+745,Parris Campbell,121,13,CLT,2,59,2019,Ohio State,2016,Ohio State,13,13,121,9.3,0,9.3,WR,SO,parris-campbell-1
+746,Terry McLaurin,114,11,WAS,3,76,2019,Ohio State,2016,Ohio State,13,11,114,10.4,2,8.8,WR,SO,terry-mclaurin-1
+747,Jelani Woods,112,16,CLT,3,73,2022,Virginia,2019,Oklahoma State,13,16,112,7.0,1,8.6,WR,SO,jelani-woods-1
+748,Trey Palmer,108,10,TAM,6,191,2023,Nebraska,2020,LSU,8,10,108,10.8,0,13.5,WR,SO,trey-palmer-1
+749,Casey Washington,106,10,ATL,6,187,2024,Illinois,2020,Illinois,8,10,106,10.6,0,13.3,WR,SO,casey-washington-1
+750,Jalen Nailor,106,15,MIN,6,191,2022,Michigan State,2019,Michigan State,4,15,106,7.1,0,26.5,WR,SO,jalen-nailor-1
+751,Tyrone Tracy Jr.,106,15,NYG,5,166,2024,Purdue,2021,Iowa,13,15,106,7.1,1,8.2,WR,JR,tyrone-tracy-jr-1
+752,Jalen Brooks,100,11,DAL,7,244,2023,South Carolina,2020,South Carolina,6,11,100,9.1,0,16.7,WR,JR,jalen-brooks-2
+753,Nathan Hairston,88,13,CLT,5,158,2017,Temple,2014,Temple,7,13,88,6.8,0,12.6,WR,SO,nathan-hairston-1
+754,Braxton Berrios,86,12,NWE,6,210,2018,Miami (FL),2015,Miami (FL),11,12,86,7.2,0,7.8,WR,SO,braxton-berrios-1
