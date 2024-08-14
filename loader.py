@@ -1,5 +1,6 @@
 import csv
 import json
+import torch
 
 career = {}
 combine = {}
@@ -80,4 +81,7 @@ with open('data/processed.json', 'w') as f:
      f.write(json.dumps(training_data))
      
 with open('data/processed.json', 'r') as f:
-    print(json.load(f))
+    loaded = json.load(f)
+
+x = torch.rand(5, 3)
+print(x)
