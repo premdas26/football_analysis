@@ -1,4 +1,5 @@
 import csv
+import json
 
 career = {}
 combine = {}
@@ -12,13 +13,13 @@ with open('data/career_stats.csv', 'r') as f:
         if row[0] != 'Rk':
             name = row[1]
             
-            rec = int(row[11])
-            yds = int(row[12])
-            td = int(row[14])
             g = int(row[10])
+            rec = int(row[11]) / g
+            yds = int(row[12]) / g
+            td = int(row[14]) / g
             
             draft_pick = int(row[5])
-            career[name] = [rec, yds, td, g, draft_pick]
+            career[name] = [g, rec, yds, td, draft_pick]
             
 with open('data/combine_stats.csv', 'r') as f:
     reader = csv.reader(f)
@@ -40,12 +41,12 @@ with open('data/combine_stats.csv', 'r') as f:
 with open('data/season_stats.csv', 'r') as f:
     reader = csv.reader(f)
     for row in reader:
-        if int(row[9]) + 1 == int(row[7]):
+        if row[0] != 'Rk' and int(row[9]) + 1 == int(row[7]):
             name = row[1]
             g = int(row[11])
-            yards = int(row[12])
-            catches = int(row[13])
-            tds = int(row[15])
+            catches = int(row[12]) / g
+            yards = int(row[13]) / g
+            tds = int(row[15]) / g
             senior[name] = [g, yards, catches, tds]
         
 with open('data/rookie_stats.csv', 'r') as f:
@@ -53,16 +54,14 @@ with open('data/rookie_stats.csv', 'r') as f:
     for row in reader:
         if row[0] != 'Rk':
             name = row[1]
-            rec = row[10]
-            yards = row[11]
-            td = row[13]
-            fant_pts = row[3]
-            rookie[name] = [rec, yards, td, fant_pts]
+            rec = int(row[10])
+            yards = int(row[11])
+            td = int(row[13])
+            rookie[name] = [rec, yards, td]
             
 def get_value_for_key(key, dict, length, name):
     if value := dict.get(key):
         return value
-    print(f'{key}: {name}')
     return [None] * length
         
 for key in rookie:
@@ -70,4 +69,15 @@ for key in rookie:
     senior_stats = get_value_for_key(key, senior, 4, 'senior')
     combine_stats = get_value_for_key(key, combine, 9, 'combine')
     
-    training_data.append([key, [*career_stats, *senior_stats, *combine_stats], rookie[key]])
+    stats = [*career_stats, *senior_stats, *combine_stats]
+    if any(stats):
+        datum = {'params': stats, 'results': rookie[key]}
+        training_data.append(datum)
+    else:
+        print(f'no data for {key}')
+        
+with open('data/processed.json', 'w') as f: 
+     f.write(json.dumps(training_data))
+     
+with open('data/processed.json', 'r') as f:
+    print(json.load(f))
