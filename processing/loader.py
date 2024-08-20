@@ -80,8 +80,7 @@ for key in rookie:
 with open('data/processed.json', 'w') as f: 
      f.write(json.dumps(training_data))
      
-with open('data/processed.json', 'r') as f:
-    loaded = json.load(f)
 
-x = torch.rand(5, 3)
-print(x)
+def load_data():
+    with open('data/processed.json', 'r') as f:
+        return json.load(f)
