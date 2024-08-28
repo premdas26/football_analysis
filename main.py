@@ -14,7 +14,7 @@ num_epochs = 500
 num_folds = 3
 torch.manual_seed(42)
 
-accuracy_threshold = torch.tensor([10, 200, 2])
+accuracy_threshold = torch.tensor([1, 10, 0.25])
 
 def reset_weights(m):
     for layer in m.children():
@@ -57,7 +57,7 @@ if __name__ == '__main__':
         trainloader = DataLoader(dataset, batch_size=10, sampler=train_sampler)
         testloader = DataLoader(dataset, batch_size=10, sampler=test_sampler)
 
-        mlp = MLP(num_inputs=16, num_outputs=3)
+        mlp = MLP(num_inputs=13, num_outputs=3)
         mlp.apply(reset_weights)
         
         loss_function = nn.MSELoss()

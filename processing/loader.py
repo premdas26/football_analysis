@@ -34,8 +34,7 @@ def write_output_file():
                 arm_length = float(row[7]) if row[7] else None
                 forty_time = float(row[8]) if row[8] else None
                 vertical = float(row[10]) if row[10] else None
-                broad = int(row[11]) if row[11] else None
-                combine[name] = [height, weight, hand_size, arm_length, forty_time, vertical, broad]
+                combine[name] = [height, weight, hand_size, arm_length, forty_time, vertical]
                 
                 
     with open('data/season_stats.csv', 'r') as f:
@@ -53,11 +52,14 @@ def write_output_file():
         reader = csv.reader(f)
         for row in reader:
             if row[0] != 'Rk':
-                name = row[1]
-                rec = int(row[10])
-                yards = int(row[11])
-                td = int(row[13])
-                rookie[name] = [rec, yards, td]
+                g = int(row[7])
+                if g >= 12:
+                    name = row[1]
+                    rec = int(row[10]) / g
+                    yards = int(row[11]) / g
+                    td = int(row[13]) / g
+                    rookie[name] = [rec, yards, td]
+                
                 
     def get_value_for_key(key, dict):
         if value := dict.get(key):

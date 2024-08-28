@@ -2,7 +2,7 @@ import torch
 
 # https://github.com/christianversloot/machine-learning-articles/blob/main/how-to-create-a-neural-network-for-regression-with-pytorch.md
 class ReceiverDataset(torch.utils.data.Dataset):
-    def __init__(self, X, y, scale_data=True):
+    def __init__(self, X, y):
         self.X = torch.from_numpy(X)
         self.y = torch.from_numpy(y)
         
