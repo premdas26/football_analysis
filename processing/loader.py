@@ -72,6 +72,8 @@ def write_output_file():
         combine_stats = get_value_for_key(key, combine)
         
         stats = [*career_stats, *senior_stats, *combine_stats]
+        if key == 'Jalen Reagor':
+            print('and we was catching them')
         if any([stat is None for stat in stats]):
             print(f'no data for {key}')
         else:
