@@ -100,13 +100,4 @@ if __name__ == '__main__':
                 total_predictions += outputs.size()[0]
                 successful_predictions += get_number_successes(outputs, targets)
             
-            print(f'validation completed with accuracy: {successful_predictions / total_predictions}') 
-        print('-------------------')
-        nabers = np.array([38, 4.973684, 79.026316, 0.55163, 6, 13, 120.6923, 6.846154, 1.076923, 71.75, 200, 9.88, 31.38, 4.35, 42])
-        nabers = nabers / max_X
-        nabers = mlp(torch.tensor(nabers, dtype=torch.float32)) 
-        reagor = [39, 3.7948717948717947, 57.64102564102564, 0.5641025641025641, 21, 12, 50.916666666666664, 3.5833333333333335, 0.4166666666666667, 70.63, 206, 9.5, 31.38, 4.47, 42.0]
-        reagor = reagor / max_X
-        reagor = mlp(torch.tensor(reagor, dtype=torch.float32)) 
-        print(f'nabers: {nabers}')
-        print(f'reagor: {reagor}')
+            print(f'validation completed with accuracy: {successful_predictions / total_predictions}')
